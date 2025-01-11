@@ -1,0 +1,2961 @@
+CHAPTER 1: 
+INTRODUCTION
+Pathfinder is a fantasy tabletop roleplaying game (RPG) where you and a group of friends 
+gather to tell a tale of brave heroes and cunning villains in a world filled with terrifying 
+monsters and amazing treasures. More importantly, Pathfinder is a game where your 
+character’s choices determine how the story unfolds.
+Pathfinder adventures take place in the Age of Lost Omens, a 
+perilous fantasy world rife with ancient empires; sprawling 
+city-states; and countless tombs, dungeons, and monster 
+lairs with hidden secrets and relics. A Pathfinder character’s 
+adventures might take them to forsaken underwater ruins, 
+haunted gothic crypts, or magical universities in jungle 
+cities. A world of endless adventure awaits!
+What Is a Roleplaying 
+Game?
+A roleplaying game is an interactive story where one 
+player, the Game Master (GM), sets the scene and 
+presents challenges, while other players take the roles 
+of player characters (PCs) and attempt to overcome 
+those challenges. Danger comes in the form of monsters, 
+devious traps, and the machinations of adversarial agents, 
+but Pathfinder also provides political schemes, puzzles, 
+interpersonal drama, and much, much more.
+The game is typically played in a group of four to seven 
+players, with one of those players serving as the group’s 
+GM. The GM prepares, presents, and presides over the 
+game’s world and story, posing challenges and playing 
+adversaries, allies, and bystanders alike. As each scene 
+flows, each player contributes to the story, responding 
+to situations according to the personality and abilities 
+of their character. Dice rolls, combined with preassigned 
+statistics, add an element of chance to the game and 
+determine whether characters succeed or fail at actions.
+The Flow of the Game
+Pathfinder is played in sessions, during which players 
+gather in person or online for a few hours to play the game. 
+A complete story can be as short as a single session, often 
+referred to as a “one-shot,” or it can stretch for multiple 
+sessions, forming a campaign that might last for months 
+or even years. If the GM enjoys telling the story and the 
+players are entertained, the game can go as long as you like.
+A session can be mostly action, featuring battles with 
+vile beasts, escapes from fiendish traps, and the completion 
+of heroic quests. Alternatively, it could include negotiating 
+with a baron for rights to a fort, infiltrating an army of 
+lumbering giants, or bargaining with an angel for a strand 
+of hair to revive a slain friend. Ultimately, it’s up to you 
+and your group to determine what kind of game you’re 
+playing, from dungeon exploration to a nuanced political 
+drama, or anything in between.
+The Players
+Everyone involved in a Pathfinder game is a player, 
+including the Game Master, but for the sake of simplicity, 
+“player” usually refers to participants other than the 
+GM. Before the game begins, players invent a history 
+and personality for their characters, using the rules to 
+determine their characters’ statistics, abilities, strengths, 
+and weaknesses. The GM might limit the options available 
+during character creation, but the limits are discussed 
+ahead of time so everyone can create interesting heroes. 
+In general, the only limits to character concepts are the 
+players’ imaginations and the GM’s guidelines.
+During the game, players describe the actions their 
+characters take and roll dice, using their characters’ 
+abilities. The GM resolves the outcome of these actions. 
+Some players enjoy acting out (or roleplaying) what they 
+do as if they were their characters, while others describe 
+their characters’ actions as if telling a story. Do whatever 
+feels best!
+If this is your first experience with a roleplaying game, 
+it’s recommended that you take on the role of a player to 
+familiarize yourself with the rules and the world.
+The Game Master
+While the other players create and control their 
+characters, the Game Master (or GM) is in charge of 
+the story and world. The GM describes all the situations 
+player characters experience in an adventure, considers 
+how the actions of player characters affect the story, and 
+interprets the rules along the way. The Game Master uses 
+the rules and advice found in Pathfinder GM Core.
+The GM can create a new adventure—crafting a 
+narrative, selecting monsters, and assigning treasure 
+on their own—or they can instead rely on a published 
+adventure, using it as a basis for the session and modifying 
+it as needed to accommodate their individual players 
+and the group’s style of play. Some even run games that 
+combine original and published content, mixing both 
+together to form a new narrative.
+Being the GM is a challenge, requiring you to adjudicate 
+the rules, narrate the story, and juggle other responsibilities. 
+But it can also be very rewarding and worth all the work 
+required to run a good game. If it’s your first time running 
+a game, remember that the only thing that matters is that 
+everyone, including you, has a fun time. Everything else 
+will come naturally with practice and patience.
+THE FIRST RULE
+The first rule of Pathfinder is that this game is yours. Use 
+it to tell the stories you want to tell, be the character you 
+want to be, and share exciting adventures with friends. If 
+any other rule gets in the way of your fun, as long as your 
+group agrees, you can alter or ignore it to fit your story. The 
+true goal of Pathfinder is for everyone to enjoy themselves.
+DICE
+Pathfinder requires a set of polyhedral dice. Each die 
+has a different number of sides—four, six, eight, or more. 
+When these dice are mentioned in the text, they’re 
+indicated by a “d” followed by the number of sides on the 
+die. Pathfinder uses 4-sided dice (or d4), 6-sided dice (d6), 
+8-sided dice (d8), 10-sided dice (d10), 12-sided dice (d12), 
+and 20-sided dice (d20). If you need to roll multiple dice, 
+a number before the “d” tells you how many. For example, 
+“4d6” means you should roll four dice, all 6-sided. If a 
+rule asks for d%, you generate a number from 1 to 100 by 
+rolling two 10-sided dice, treating one as the tens place 
+and the other as the ones place.
+Gaming Is for All
+Whether you’re the GM or a player, participating in a 
+tabletop roleplaying game includes a social contract: 
+everyone’s gathered together to have fun. For many, 
+roleplaying is a way to escape the troubles of everyday life. 
+Be mindful of everyone at the table and what they want 
+out of the game; when a group gathers for the first time, 
+they should talk about what they hope to experience at the 
+table, as well as any topics they’d like to avoid. Everyone 
+should understand that elements might come up that make 
+some players feel uncomfortable or even unwelcome, and 
+everyone should agree to respect those boundaries during 
+play. That way, everyone can enjoy the game together.
+Pathfinder is a game for everyone, regardless of their 
+age, gender, race or ethnicity, religion, sexual orientation, 
+or any other identities and life experiences. It’s the 
+responsibility of all of the players, not just the GM, to 
+make sure the table is fun and welcoming for everyone.
+Tools of Play
+In addition to this book, there are a few things you will 
+need to play Pathfinder. These supplies can be found at 
+your local hobby shop or online at paizo.com.
+Character Sheet: Each player will need a character 
+sheet to create their character and to record what 
+happens to them during play. You can find a character 
+sheet in the back of this book and online as a free PDF.
+Dice: The players and GM will need at least one set of 
+polyhedral dice, although most participants bring their 
+own. Six-sided dice are quite common, but all the dice in 
+the set can be found at hobby game stores or online. See 
+the Dice sidebar for more on the different kinds of dice 
+and how they are discussed in the text.
+Adventure: Every table needs an adventure to play, 
+whether it’s designed by the GM or found in a published 
+resource. You can find a variety of exciting adventures 
+and even entire Adventure Path campaigns at paizo.com.
+Pathfinder Monster Core: From terrifying dragons to 
+mischievous gremlins, monsters are a common threat that 
+the PCs might face, and each type has its own statistics and 
+abilities. These can be found in the Pathfinder Monster 
+Core, an invaluable book for GMs. Monster statistics can 
+also be found online for free at paizo.com/prd.
+Maps and Miniatures: The chaos of combat can be 
+difficult to imagine, so many groups use maps to represent 
+the battlefield. These maps are marked with a 1-inch grid, 
+and each square represents 5 feet in the game. Miniatures 
+and illustrated tokens called pawns are used to represent 
+the characters and the adversaries they face.
+Additional Accessories: There are many additional 
+accessories you can add to your game to enhance the 
+experience, including tools that help you track turns in 
+combat, decks of cards for referencing common rules, 
+digital character-creation tools, virtual tabletops for online 
+play, and even background music and sound-effect sets.
+Basics of Play
+Before creating your first character or adventure, you 
+should understand a number of basic concepts used in 
+the game. New concepts are presented in bold to make 
+them easy to find, but this chapter is only an introduction 
+to the basics of play. The complete game rules are defined 
+in later chapters, and the Glossary and Index in the back 
+of this book will help you find specific rules you need.
+Defining Characters
+In Pathfinder, the players take on the role of player 
+characters (PCs), while the Game Master portrays 
+nonplayer characters (NPCs) and monsters. While PCs 
+and NPCs are both important to the story, they serve very 
+different purposes in the game. PCs are the protagonists—
+the narrative is about them—while NPCs and monsters 
+are allies, contacts, adversaries, and villains. That said, 
+PCs, NPCs, and monsters share several characteristics.
+Level is one of the most important statistics of the game, 
+as it conveys the approximate power and capabilities of 
+every individual creature. PCs range in level from 1st, at 
+the start of the character’s adventuring career, to 20th, 
+the very height of power. As the characters overcome 
+challenges, defeat foes, and complete adventures, they 
+accumulate Experience Points (XP). Every time a character 
+amasses 1,000 XP, they go up a level, gaining new abilities 
+so they can take on even greater challenges. A 1st-level PC
+might face off against a giant rat or a group of bandits, 
+but at 20th level, that same character might be able to 
+destroy an entire city with a single spell.
+In addition to level, characters are defined by attributes, 
+which measure a character’s raw potential and are used 
+to calculate most of their other statistics. There are six 
+attributes in the game. Strength represents a character’s 
+physical might, while Dexterity represents agility and 
+the ability to avoid danger. Constitution indicates a 
+character’s overall health and well-being. Intelligence
+represents raw knowledge and problem-solving ability, 
+while Wisdom measures a character’s insight and the 
+ability to evaluate a situation. Finally, Charisma indicates 
+charm, persuasiveness, and force of personality. Attribute 
+modifiers for ordinary creatures range from as low as –5 
+to as high as +5, with +0 representing average human 
+capabilities. High-level characters can have attribute 
+modifiers that range much higher than +5. An attribute 
+modifier above the average increases your chance of 
+success at tasks related to the attribute, while those below 
+the average decrease your chance.
+Your player character is also defined by some key 
+choices you make. The first choice is a PC’s ancestry, 
+representing the character’s parents and heritage, such as 
+human, elf, or goblin. Next up is the PC’s background, 
+which describes their upbringing, from lowly street urchin 
+to wealthy noble. Finally, and most importantly, a PC’s 
+class defines the majority of their aptitudes and abilities, 
+like a wizard’s command of powerful arcane spells or a 
+druid’s power to transform into a fearsome beast!
+In addition to these key choices, player characters 
+also have a number of feats—individual abilities selected 
+during character creation and as the character increases in 
+level. Every feat has a type to denote where its explanation 
+can be found (for example, elf feats can be found in the elf 
+ancestry) and its theme (wizard feats, for example, grant 
+abilities that deal with spells). Finally, characters have 
+skills that measure their ability to hide, swim, bargain, 
+and perform other common tasks.
+Creating a Narrative
+Characters and their choices create the story of 
+Pathfinder, but how they interact with each 
+other and the world around them is governed 
+by rules. So, while you might decide that 
+your character undertakes an epic journey 
+to overcome terrifying foes and make 
+the world a safer place, your character’s 
+chance of success is determined by their abilities, 
+the choices you make, and the roll of 
+the dice.
+The Game Master determines the 
+premise and background of most 
+adventures, although character histories 
+and personalities certainly play a part. 
+Once a game session begins, the players 
+take turns describing what their characters attempt 
+to do, while the GM determines the outcome, with the 
+table working together to create the story. The GM also 
+describes the environment, other characters’ actions, and 
+events. For example, the GM might announce that the 
+characters’ hometown has been regularly attacked by 
+marauding trolls. The characters might track the trolls to 
+a nearby swamp—only to discover that the trolls were 
+driven from their swamp by a fearsome dragon! The PCs 
+then have the choice of taking on an entire tribe of trolls, 
+the dragon, or both. Whatever they decide, their success 
+depends on their choices and the die rolls they make 
+during play.
+A single narrative—including the setup, plot, 
+and conclusion—is called an adventure. A series of 
+adventures creates an even larger narrative, called a 
+campaign. An adventure might take several sessions to 
+complete, whereas a campaign might take months or 
+even years!
+THE WORLD AS A PARTICIPANT
+Aside from characters and monsters, the world of 
+Pathfinder itself can be a force at the table and in the 
+narrative. While the presence of the larger world can 
+sometimes be an obvious hazard, such as when a 
+powerful storm wreaks the countryside, the world can 
+also act in subtle, small ways. Traps and treasures are 
+just as important in many tales as cunning beasts. To 
+help you understand these game elements, many of them 
+use the same characteristics as characters and monsters. 
+For example, most environmental hazards have a level, 
+which indicates how dangerous they are, and the level of 
+a magic item gives you a sense of its overall power and 
+impact on a story.
+Playing the Game
+In a Pathfinder game, three modes of play determine the 
+pacing of each scene in the story. Most of your character’s 
+time is spent in exploration, uncovering mysteries, solving 
+problems, and interacting with other characters. The 
+Age of Lost Omens abounds with danger, however, and 
+characters often find themselves in an encounter, fighting 
+savage beasts and terrifying monsters. Finally, time moves 
+quickly when the characters enjoy downtime, a respite 
+from the world’s troubles and a chance to rest and train 
+for future expeditions. Throughout an adventure, game 
+play moves between these three modes many times, as 
+needed for the story. The more you play the game, the 
+more you’ll see that each mode has its own play style, but 
+moving from mode to mode has few hard boundaries.
+During the game, your character will face situations 
+where the outcome is uncertain. A character might need 
+to climb a sheer cliff, track down a wounded chimera, or 
+sneak past a sleeping dragon, all of which are dangerous 
+tasks with a price for failure. In such cases, the acting 
+character (or characters) will be asked to attempt a check
+to determine whether or not they succeed. A check is 
+usually made by rolling a single 20-sided die (a d20) and 
+adding a number based on the relevant attribute. In such 
+cases, rolling high is always good.
+Once a check is rolled, the GM compares the result to a 
+target number called the difficulty class (DC) to determine 
+the outcome. If the result of the check is equal to or greater 
+than the DC, the check is successful. If it is less, the check is 
+a failure. Beating the DC by 10 or more is referred to as a 
+critical success, which usually grants an especially positive 
+outcome. Similarly, failing the check by 10 or more is a 
+critical failure (sometimes called a fumble). This sometimes 
+results in additional negative effects. You also often score a 
+critical success by rolling a 20 on the die when attempting 
+a check (before adding anything). Likewise, rolling a 1 on 
+the die when attempting a check often results in a critical 
+failure. Note that not all checks have a special effect on a 
+critical success or critical failure and such results should be 
+treated just like an ordinary success or failure instead.
+For example, in pursuit of the wounded chimera, your 
+character might find the path blocked by a fast-moving 
+river. You decide to swim across, but the GM declares this 
+a dangerous task and asks you to roll an Athletics skill 
+check (since swimming is covered by the Athletics skill). On 
+your character sheet, you see that your character has a +8 
+modifier for such checks. Rolling the d20, you get an 18, for 
+a total of 26. The GM compares this to the DC (which was 
+16) and finds that you got a critical success (since the result 
+exceeded the DC by 10). Your character swims quickly 
+across the river and continues the pursuit, drenched but 
+unharmed. Had you gotten a result less than 26 but equal 
+to or greater than 16, your character would have made it 
+halfway across the river. Had your result been less than 16, 
+your character might have been swept downriver or, worse, 
+been pulled under the current and begun to drown!
+Checks like this are the heart of the game and are rolled 
+all the time, in every mode of play, to determine the outcome 
+of tasks. While the roll of the die is critical, the statistic you 
+add to the roll (called a modifier) often makes the difference 
+between success and failure. Every character is made up of 
+many such statistics governing what the character is good 
+at, each consisting of a relevant attribute modifier plus a 
+proficiency bonus, and sometimes modified further by 
+other factors, such as bonuses or penalties from gear, spells, 
+feats, magic items, and other special circumstances.
+Proficiency is a simple way of assessing your character’s 
+general level of training and aptitude for a given task. 
+It is broken into five different ranks: untrained, trained, 
+expert, master, and legendary. Each rank grants a different 
+proficiency bonus. If you’re untrained at a statistic, your 
+proficiency bonus is +0—you must rely solely on the raw 
+potential represented by your attribute modifier. If your 
+proficiency rank for a statistic is trained, expert, master, 
+and legendary, your bonus equals your character’s level plus another number based on the rank (2, 4, 6, and 8, 
+respectively). Proficiency ranks are part of almost every 
+statistic in the game.
+Exploration
+Most of the time, your character will explore the world, 
+interact with characters, travel from place to place, and 
+overcome challenges. This is called exploration. Game play 
+is relatively free-form during exploration, with players 
+responding to the narrative whenever they have an idea of 
+what to do next. Leaving town via horseback, following the 
+trail of a marauding orc tribe, avoiding the tribe’s scouts, and 
+convincing a local hunter to help in an upcoming fight are 
+all examples of things that might occur during exploration.
+Throughout this mode of play, the GM asks the players 
+what their characters are doing as they explore. This is 
+important in case a conflict arises. If combat breaks out, 
+the tasks the PCs undertook while exploring might give 
+them an edge or otherwise inform how the combat begins.
+Encounters
+In the course of your adventures, there will be times when 
+a simple skill check is not enough to resolve a challenge—
+when fearsome monsters stand in your character’s way 
+and the only choice is to do battle. In Pathfinder, this is 
+called an encounter. Encounters usually involve combat, 
+but they can also be used in situations where timing is 
+critical, such as during a chase or when dodging hazards.
+While exploration is handled in a free-form manner, 
+encounters are more structured. The players and GM roll 
+initiative to determine who acts in what order. The encounter 
+occurs over a number of rounds, each of which is equal to 
+about 6 seconds of time in the world of the game. During 
+a round, each participant takes a turn. When it’s your 
+turn to act, you can use up to three actions. Most simple 
+things, such as drawing a weapon, moving a short distance, 
+opening a door, or swinging a sword, use a single action to 
+perform. There are also activities that use more than a single 
+action to perform; these are often special abilities from your 
+character’s class and feats. One common activity in the game 
+is casting a spell, which usually uses two actions.
+Free actions, such as dropping an object, don’t count 
+toward the three actions you can take on your turn. 
+Finally, each character can use up to one reaction during a 
+round. This special type of action can be used even when 
+it’s not your turn, but only in response to certain events, 
+and only if you have an ability that allows it. Rogues, for 
+example, can select a feat that lets them use their reaction 
+to dodge an incoming attack.
+Attacking another creature is one of the most common 
+actions in combat, and is done by using the Strike action. 
+This requires an attack roll—a kind of check made against 
+the Armor Class (AC) of the creature you’re attacking. 
+Strikes can be made using weapons, spells, or even parts 
+of a creature’s body, like a fist, claw, or tail. You add a 
+modifier to this roll based on your proficiency rank with 
+the type of attack you’re using, your attributes, and any 
+other bonuses or penalties based on the situation. The 
+target’s AC is calculated using their proficiency rank in 
+the armor they’re wearing and their Dexterity modifier. 
+An attack deals damage if it hits, and rolling a critical 
+success results in the attack dealing double damage!
+You can use more than one Strike action on your turn, 
+but each additional attack after the first becomes less 
+accurate. This is reflected by a multiple attack penalty
+that starts at –5 on the second attack, but increases to –10 
+on the third. There are many ways to reduce this penalty, 
+and it resets at the end of your turn.
+If your character finds themself the target of a magical 
+lightning bolt or the victim of a venomous snake bite, you 
+will be called on to attempt a saving throw, representing 
+your character’s ability to avoid danger or otherwise 
+withstand an assault to their mind or body. A saving throw 
+is a check attempted against the DC of the spell or special 
+ability targeting your character. There are three types of 
+saving throws, and a character’s proficiency in each says a 
+great deal about what they can endure. A Fortitude saving 
+throw is used when your character’s health or vitality is 
+under attack, such as from poison or disease. A Reflex
+saving throw is called for when your character must 
+dodge away from danger, usually something that affects 
+a large area, such as the scorching blast of a fireball spell. 
+Finally, a Will saving throw is often your defense against 
+spells and effects that target your character’s mind, such 
+as a charm or confusion spell. For all saving throws, a 
+success lessens the harmful effect, and scoring a critical 
+success usually means your character escapes unscathed.
+Attacks, spells, hazards, and special abilities frequently 
+either deal damage to a character or impose one or more 
+conditions—and sometimes both. Damage is subtracted 
+from a creature’s Hit Points (HP)—a measure of health—
+and when a creature is reduced to 0 HP, it falls unconscious 
+and may die! A combat encounter typically lasts until one 
+side has been defeated, and while this can mean retreat or 
+surrender, it most often happens because one side is dead or 
+dying. Conditions can hinder a creature for a time, limiting 
+the actions they can use and applying penalties to future 
+checks. Some conditions are even permanent, requiring a 
+character to seek out powerful magic to undo their effects.
+Downtime
+PCs don’t have to spend every waking moment adventuring. 
+They might also recover from wounds, plan future conquests, 
+or pursue a trade. In Pathfinder, this is called downtime, and 
+it allows time to pass quickly while characters work on longterm tasks or objectives. Most characters can practice a trade 
+in downtime, earning a few coins, but those with the right 
+skills can also spend time crafting, creating new gear or even 
+magic items. Characters can also use downtime to retrain, 
+replacing one character choice with another to reflect their 
+evolving priorities. They might also research a problem, 
+learn new spells, or even run a business or kingdom!
+KEY TERMS
+There are a number of important terms that you’ll need to know as you create your first character or adventure. Some of the 
+most important terms mentioned on previous pages are also included here for reference
+Action
+During encounters, each creature gets three actions during 
+their turn. These actions are spent to attack, interact with 
+objects, move, and use special abilities. Actions available to 
+all characters can be found in Chapter 8.
+Ancestry
+An ancestry is the broad family of people that a character 
+belongs to. Ancestry determines a character’s starting Hit 
+Points, languages, senses, and Speed, and it grants access to 
+ancestry feats. Ancestries can be found in Chapter 2.
+Armor Class (AC)
+All creatures in the game have an Armor Class. This score 
+represents how hard it is to hit and damage a creature. It 
+serves as the Difficulty Class for hitting a creature with 
+an attack.
+Attack
+When a creature tries to harm another creature, it makes 
+a Strike or uses some other attack action. Most attacks are 
+Strikes made with a weapon, but a character might Strike 
+with their fist, grapple or shove with their hands, or attack 
+with a spell.
+Attribute Modifier
+Each creature has six attribute modifiers: Strength, 
+Dexterity, Constitution, Intelligence, Wisdom, and Charisma. 
+Each of these numbers represents a creature’s raw potential 
+and general training. Attributes are described in full later in 
+this chapter.
+Background
+A background represents what a character experienced 
+before they took up the life of an adventurer. Each 
+background grants a feat and training in one or more skills. 
+You can read more about backgrounds in Chapter 2.
+Bonuses and Penalties
+Bonuses and penalties apply to checks and certain statistics. 
+There are several types of bonuses and penalties. If you 
+have more than one bonus of the same type, you use only 
+the highest bonus. Likewise, you use only the worst penalty 
+of each type.
+Check
+When a character attempts an action where success is 
+uncertain, they may roll a check. This is a roll of one twentysided die plus the named proficiency bonus. For example, 
+a Perception check would add your Perception proficiency.
+Class
+A class represents the adventuring profession chosen by 
+a character. A character’s class determines most of their 
+proficiencies, grants the character Hit Points each time they 
+gain a new level, and gives access to a set of class feats. 
+Classes appear in Chapter 3.
+Condition
+An ongoing effect that changes how a character can act, or 
+that alters some of their statistics, is called a condition. The 
+rules for the basic conditions used in the game can be found 
+in the Conditions Appendix at the back of this book.
+Currency
+The most common currencies in the game are gold pieces 
+(gp) and silver pieces (sp). One gp is worth 10 sp. In addition, 
+1 sp is worth 10 copper pieces (cp), and 10 gp are worth 1 
+platinum piece (pp). Characters begin play with 15 gp (or 
+150 sp) to spend on equipment.
+Feat
+A feat is an ability you can select for your character due to 
+their ancestry, background, class, general training, or skill 
+training. Some feats grant the ability to use special actions, 
+while others make your existing actions more effective.
+Game Master (GM)
+The Game Master is the player who adjudicates the rules 
+and narrates the various elements of the Pathfinder story 
+and world that the other players explore. The GM uses the 
+rules found in Pathfinder GM Core.
+Golarion
+Pathfinder is set on the planet Golarion during the Age of 
+Lost Omens. It is an ancient world with a rich diversity of 
+people and cultures, exciting locations to explore, and deadly 
+villains. More information on the Age of Lost Omens, the 
+world of Golarion, and its deities can be found on page 30.
+Hit Points (HP)
+Hit Points represent the amount of punishment a creature 
+can take before it falls unconscious and begins dying. 
+Damage decreases Hit Points on a 1-to-1 basis, while healing 
+restores Hit Points at the same rate.
+Initiative
+At the start of an encounter, all creatures involved roll for 
+initiative to determine the order in which they act. The 
+higher the result of its roll, the earlier a creature gets to act. 
+Initiative and combat are described in Chapter 8.
+Level
+A level is a number that measures something’s overall 
+power. Player characters have a level, ranging from 1st 
+to 20th, representing their level of experience. Monsters, 
+NPCs, hazards, diseases, and poisons have levels ranging 
+from –1 to 30 that measure the danger they pose. An item’s 
+level, usually within the range of 0 to 20 but sometimes 
+higher, indicates its power and suitability as treasure.
+Nonplayer Character (NPC)
+A nonplayer character, controlled by the GM, interacts with 
+players and helps advance the story.
+Perception
+Perception measures your character’s ability to notice 
+hidden objects or unusual situations, and it usually 
+determines how quickly the character springs into action in 
+combat. It is described in full in Chapter 9.
+Player Character (PC)
+This is a character created and controlled by a player.
+Proficiency
+Proficiency is a system that measures a character’s aptitude 
+at a specific task or quality, and it has five ranks: untrained, 
+trained, expert, master, and legendary. Proficiency gives 
+you a bonus that’s added when determining the following 
+modifiers and statistics: AC, attack rolls, Perception, saving 
+throws, skills, and the effectiveness of spells. If you’re 
+untrained, your proficiency bonus is +0. If you’re trained, 
+expert, master, or legendary, your proficiency bonus equals 
+your level plus 2, 4, 6, or 8, respectively.
+Rarity
+Some elements of the game have a rarity to denote how 
+often they’re encountered in the game world. Rarity 
+primarily applies to equipment and magic items, but spells, 
+feats, and other rules elements also have a rarity. If no rarity 
+appears in the traits of an item, spell, or other game element, 
+it’s of common rarity. Uncommon options are available only 
+to those who have special training, grew up in a certain 
+culture, or come from a particular part of the world. This can 
+be explained with an “Access” entry, explaining criteria for 
+characters to choose it as a common option. Rare options 
+are almost impossible to find and are usually given out only 
+by the GM, while unique ones are literally one-of-a-kind 
+in the game. The GM might alter the way rarity works or 
+change the rarity of individual items to suit the story they 
+want to tell.
+Roleplaying
+Describing a character’s actions, often while acting from the 
+perspective of the character, is called roleplaying. When a 
+player speaks or describes action from the perspective of a 
+character, they are “in character.”
+Round
+A round is a period of time during an encounter in which 
+all participants get a chance to act. A round represents 
+approximately 6 seconds in game time.
+Saving Throw (Save)
+When a creature is subject to a dangerous effect that must 
+be avoided, it attempts a saving throw to mitigate the effect. 
+You attempt a saving throw automatically—you don’t have 
+to use an action or a reaction. Unlike for most checks, the 
+character who isn’t acting rolls the d20 for a saving throw, 
+and the creature who is acting provides the DC.
+There are three types of saving throws: Fortitude (to 
+resist diseases, poisons, and physical effects), Reflex (to 
+evade effects a character could quickly dodge), and Will (to 
+resist effects that target the mind and personality).
+Skill
+A skill represents a creature’s ability to perform certain 
+tasks that require instruction or practice. All characters are 
+trained in certain skills due to their background and class. 
+Skills are fully described in Chapter 4. Each skill includes 
+ways anyone can use that skill even if untrained, as well as 
+uses that require a character to be trained in the skill.
+Speed
+Speed is the distance a character can move using a single 
+action, measured in feet.
+Spell
+Spells are magical effects created by performing mystical 
+incantations and gestures known only to those with special 
+training or inborn abilities. Casting a spell is an activity that 
+usually uses 2 actions. Each spell specifies what it targets, 
+the actions needed to cast it, its effects, and how it can be 
+resisted. If a class grants spells, the basics of that ability 
+are provided in the class description in Chapter 3, while the 
+spells themselves are detailed in Chapter 7.
+Spells have ranks ranging from 1st to 10th, which measure 
+their power; characters and monsters can usually cast only 
+a certain number of spells of any given rank.
+Trait
+A trait is a keyword that conveys additional information 
+about a rules element, such as which ancestry a feat belongs 
+to or the rarity of an item. Often, a trait indicates how other 
+rules interact with an ability, creature, item, or another rules 
+element that has that trait. 
+All the traits used in this book appear in the Glossary and 
+Index beginning on page 452.
+Turn
+During the course of a round, each creature takes a single 
+turn according to initiative. A creature can typically use up 
+to three actions during its turn.
+Example of Play
+The following example is presented to give you a better idea 
+of how the game of Pathfinder is played. In this adventure, 
+Erik is the GM. Luis is playing Valeros, a daring human 
+fighter; Shay is playing Merisiel, a deadly elven rogue, and 
+Jessica is taking on the role of Kyra, Merisiel’s wife and 
+a compassionate human cleric of Sarenrae. The group has 
+chosen to investigate disappearances in a local mine.
+Erik: The entrance to the mine is a simple iron 
+ladder leading down into the darkness of 
+a reinforced shaft. The sound of creaking 
+metal echoes from below.
+Merisiel (Shay): The miners would need to have lights 
+on when working. If it’s dark, something 
+must have gone wrong.
+Kyra (Jessica): I call upon the sacred light of Sarenrae 
+and cast a golden light spell ahead of us.
+Erik: Radiance spills forth, illuminating 
+further down the ladder. It descends 
+about 20 feet before ending in a tunnel. 
+There’s nothing but packed earth and 
+wooden reinforcement beams directly 
+below you, and you can’t see any further.
+Merisiel (Shay): I have low-light vision, so I should go 
+first to make sure it’s safe. I put away my 
+daggers so I can stealthily climb down 
+the ladder, looking for traps as I go.
+Erik: Roll your Stealth check, but looking for 
+traps is a secret check, so I’ll roll for that. 
+What’s your Perception modifier?
+Merisiel (Shay): I have a +6 to Perception, and I rolled an 
+18 on Stealth.
+Erik rolls a d20 behind his GM screen, hidden from the 
+players’ view, and gets a 17 on the die for a total of 23. 
+There are no traps in the area that Merisiel is looking, but 
+the result is more than enough to see a frightened kobold 
+hiding behind a mine cart. Due to Merisiel’s Stealth check, 
+the kobold does not see her descend the ladder.
+Erik: You descend into a 30-foot-wide mining 
+tunnel, with wooden beams reinforcing 
+the walls and ceilings. You don’t see any 
+traps, but a reptilian face with large eyes 
+peeks out from behind a mine cart. At 
+a closer look, it’s a kobold in a leather 
+miner jacket. 
+Valeros (Luis): I’ll follow Merisiel down the ladder.
+Kyra (Jessica): Me too.
+Erik: As the sound of your footsteps on the 
+iron ladder echoes through the mine, 
+the kobold jumps out in panic! She 
+takes a few steps further into the mine, 
+then stops, as if she’s more frightened of 
+whatever is deeper in than of you.
+Kyra (Jessica): Oh no! Poor kobold!
+Merisiel (Shay): Can someone calm her down? I’m 
+terrible with people!
+Valeros (Luis): I have a +3 Diplomacy. I’ll call out to 
+her.
+Erik: What do you say?
+Valeros (Luis): “Hello friend! Don’t be scared, we’re 
+here to help!” I rolled a 15 on my 
+Diplomacy check.
+Erik: Okay! The kobold seems startled, but 
+then runs to you for safety. “Oh! Thank 
+Torag you’re here!”
+Merisiel (Shay): Torag? She ought to thank us, or at least 
+Sarenrae.
+Kyra (Jessica): That’s sweet, but you don’t need to scold 
+her for my sake.
+Valeros (Luis): I ask the kobold who they are and what 
+happened here.
+Erik: She says that her name is Krinek, and 
+she’s one of the miners who works 
+here. “We were looking for the miners 
+who went missing, but when we found 
+them, they were wrong and rotten! They 
+attacked us and I ran away!”
+Valeros (Luis): That doesn’t sound good. I tell Krinek 
+to get to safety, then advance down the 
+tunnel with my sword and shield at the 
+ready. 
+Kyra (Jessica): I’ll keep beside him, since I have the 
+light, and draw my blade. 
+Erik: As you proceed into the tunnel, you 
+come across signs of a struggle. Half 
+dried blood stains the earth, a trail of 
+heavy smears suggesting that something 
+or someone was bleeding here and then 
+was dragged further into the mine. You 
+think you can hear something faintly 
+moving nearby.
+Valeros (Luis): That’s probably not good. I vault over 
+the mine cart to investigate. 
+Kyra (Jessica): I’ll go with him. If someone is hurt, 
+they’ll need my help.
+Merisiel (Shay): I’m going to draw a dagger and hide 
+behind a mine cart. 
+Erik: Merisiel takes cover while the two of you 
+advance. As you approach, you begin to 
+smell the faint but unmistakable scent 
+of rot. Kyra’s light suddenly illuminates 
+a hulking humanoid figure with glassy 
+eyes, its flesh rotting and beginning to 
+peel from its bones. Despite its state 
+of advanced decay, it moves toward 
+you with a malevolent force. Roll for 
+initiative! Valeros and Kyra need to roll 
+Perception, while Merisiel should roll 
+Stealth.Everyone rolls for their initiative. Luis gets a total of 13. 
+Jessica rolls better for Kyra, getting a total of 14. Shay 
+uses Stealth for Initiative, because Merisiel was hiding at 
+the start of the fight, and rolls a 17 for a total of 25! Erik 
+rolls for the creature, getting a 12. Erik records all these 
+totals, putting everyone in order from highest to lowest.
+Erik: Looks like Merisiel gets to act first. 
+Whatever that thing is, you’re pretty sure 
+it doesn’t know you are there.
+Merisiel (Shay): Just the way I like it! For my first action, 
+I want to move closer.
+Erik: You can get to within 15 feet of it with 
+one Stride action.
+Merisiel (Shay): Excellent. For my next action, I’m going 
+to throw my dagger at it, and then use 
+my final action to draw another dagger.
+Shay rolls a 13 and adds 8, due to Merisiel’s skill at thrown 
+daggers, for a total of 21, but the range means the attack 
+takes a –2 penalty for a result of 19. Erik consults his 
+notes to learn that the monster has an AC of 15.
+Erik: That’s a hit! Go ahead and roll damage.
+Merisiel (Shay): Okay, and I get to add extra damage due 
+to sneak attack.
+Rogues have the ability to deal extra damage to foes that 
+haven’t acted yet in an encounter. This extra damage also 
+applies to attacks against enemies that are distracted. 
+Shay rolls 1d4 for the dagger and 1d6 for the sneak attack. 
+Because Merisiel has the thief rogue’s racket, Shay adds 
+Merisiel’s +4 Dexterity to damage, getting a total of 9.
+Erik: It hisses as the blade sinks into its 
+shoulder. As it does, its flesh pops open, 
+pus oozing in rivulets down its arm. 
+Next up is Kyra!
+Kyra (Jessica): Gross! Okay, this creature looks undead, 
+do I know anything about that?
+Erik: You can think back to your cleric 
+training to Recall Knowledge, spending 
+one action. It’s a secret check, so what’s 
+your Religion modifier?
+Kyra (Jessica): It’s +7.
+Erik rolls a 12, adding Kyra’s +7 with Religion to get a total 
+of 19 against the DC of 16.
+Erik: Your initial suspicion was correct. 
+This is a zombie. This one appears to 
+be larger because it was enhanced by 
+magic. Because you already had a hunch 
+this was a zombie, why don’t you ask 
+another question?
+Kyra (Jessica): Does it have any notable weaknesses?
+Erik: Yes, it’s vulnerable to both healing magic 
+and slashing weapons.
+Merisiel (Shay): Augh! If I’d known, I would have slashed 
+with my dagger!
+Merisiel’s daggers have a trait called versatile (slashing), 
+which allow her to deal slashing damage instead of 
+piercing if she chooses. Unfortunately, she didn’t know 
+that doing so would be more effective when she acted!
+Kyra (Jessica): I am going to spend my last two actions 
+to cast runic weapon on Valeros’s sword. 
+It gives him a +1 bonus to attack rolls 
+and another die of damage. “Valeros, get 
+that thing!”
+Valeros (Luis): I do what she says and get it! I spend one 
+action to raise my shield and use my final 
+two actions to make a Sudden Charge!
+Sudden Charge is a fighter feat that lets Valeros move 
+twice and attack at the end of his movement, all for only 
+two actions. He rolls to attack and the die result is a 20.
+Valeros (Luis): A natural 20! With my bonus added, 
+that must be a critical success!
+Erik: Your blade hits the putrid creature right 
+in the neck, dealing double damage! 
+However, as you do so, pus explodes 
+out of the wound once more. Roll a 
+Fortitude save.
+Luis gets to roll 2d8 because of Kyra’s spell. He rolls a 9 
+total on those, then adds 4 because of Valeros’s Strength 
+modifier. Because it’s a critical success, he then doubles the 
+damage. Erik adds an extra 10 damage from the zombie’s 
+slashing weakness, for a total of 36 of its 70 Hit Points. 
+Valeros (Luis): Aw, beans. Natural 1 on the save.
+Erik: And that’s a critical failure, go figure. 
+You are sickened 1, which gives you a –1 
+penalty to d20 rolls and AC. 
+Valeros (Luis): I agree with Kyra, super gross. Did my 
+strike kill it?
+Erik: I’m afraid not. It lunges at you, 
+indifferent to its grievous wounds, trying 
+to bludgeon you with its fists!
+Erik rolls an attack roll for the zombie brute, getting an 7 
+on the die and adding 11 from its statistics for a total of 18. 
+Valeros normally has an AC of 18. The attack would hit even 
+if Valeros weren’t sickened, but it misses because he Raised 
+his Shield during his turn, increasing his AC by 2.
+That is the end of the first round of combat. The second 
+round begins immediately after this, using the same 
+initiative order as before. The fight is far from over..
+Using This Book
+While this chapter is here to teach you the basics of 
+Pathfinder, the rest of this rulebook serves as a reference 
+manual during play, and it is organized to make finding 
+the rule you need as easy as possible. Rules are grouped 
+together in chapters, with the early chapters focusing on 
+character creation. The following is a summary of what 
+you can expect to find in each chapter.
+Chapter 1: Introduction
+This introduction is designed to help you understand the 
+basics of Pathfinder. This chapter also includes the rules for 
+building and leveling up a character, as well as an example 
+of the character creation process. The chapter ends with an 
+introduction to the Age of Lost Omens and its gods.
+Chapter 2: Ancestries & Backgrounds
+The rules for ancestries and heritages representing the 
+Age of Lost Omens are in this chapter, including their 
+ancestry feat options. Backgrounds are at the end of this 
+chapter, along with a section about languages, as these 
+are most often influenced by your choice of ancestry.
+Chapter 3: Classes
+This chapter contains the rules for 8 classes. Each class 
+entry includes guidelines on playing the class, rules for 
+building and advancing a character of that class, sample 
+builds, and all of the class feats available to members 
+of that class. This chapter also includes rules for animal 
+companions and familiars, which can be acquired by 
+members of several different classes. At the end of this 
+chapter are the rules for archetypes—special options 
+available to characters as they increase in level. These 
+rules allow a character to dabble in the abilities of 
+another class or concept.
+Chapter 4: Skills
+The rules for using skills are presented in this chapter, 
+and they detail what a character can do with a given 
+skill, based on that character’s proficiency rank. 
+Ancestry, background, and class can define some of 
+a character’s skill proficiencies, and each character 
+can also select a few additional skills to reflect their 
+personality and training.
+Chapter 5: Feats
+As a character advances in level, they gain additional 
+feats to represent their growing abilities. General feats 
+and skill feats (which are a subset of general feats) are 
+presented in this chapter.
+Chapter 6: Equipment
+Armor, weapons, and other gear can all be found in this 
+chapter, along with the price for services, cost of living, 
+and animals (such as horses, dogs, and pack animals).
+Chapter 7: Spells
+This chapter starts with rules for casting spells, 
+determining their effects, and negating foes’ spells 
+(called counteracting). After that, the spell lists for each 
+spellcasting tradition are included, making it easy to 
+quickly find spells by their rank. Next are rules for every 
+spell, presented in alphabetical order. Following the 
+spell descriptions are all of the focus spells—special 
+spells granted by specific class abilities and feats. 
+While most spells appear on multiple spell lists, 
+focus spells are granted only to members of a 
+specific class and are grouped together by class 
+for ease of reference. Finally, at the end of the 
+chapter are rules for rituals, complicated and risky 
+spells that any character can attempt.
+Chapter 8: Playing the Game
+This important chapter contains the universal rules 
+needed to play Pathfinder, including rules for the 
+various modes of play, the basic actions that every 
+character can perform, the rules for combat, and the 
+rules for death and dying. Every player should be 
+familiar with this chapter, especially the GM.
+Appendices
+The back of this book has an appendix with the rules 
+for all of the conditions that you will find in the game. 
+This section also includes a blank character sheet, and 
+an index with a comprehensive glossary of common 
+terms and traits that you’ll encounter in the game.
+Format of Rules
+Throughout this rulebook, you will see formatting 
+standards that might look a bit unusual at first. These 
+standards are in place to make the rules elements in this 
+book easier to recognize.
+The names of specific statistics, skills, feats, actions, 
+and some other mechanical elements in Pathfinder are 
+capitalized. This way, when you see the statement “a 
+Strike targets Armor Class,” you know that both Strike 
+and Armor Class are referring to rules.
+If a word or a phrase is italicized, it’s describing a spell 
+or a magic item. This way, when you see the statement 
+“the door is sealed by lock,” you know that the word 
+denotes the lock spell, rather than a physical item.
+Pathfinder also uses many terms that are typically 
+expressed as abbreviations, like AC for Armor Class, DC 
+for Difficulty Class, and HP for Hit Points. If you’re ever 
+confused about a game term or an abbreviation, you can 
+always turn to the Glossary and Index, beginning on 
+page 452, and look it up.
+Understanding Actions
+Characters and their adversaries affect the world of 
+Pathfinder by using actions and producing effects. This 
+is especially the case during encounters, when every 
+action counts. When you use an action, you generate 
+an effect. This effect might be automatic, but sometimes 
+actions necessitate that you roll a die, and the effect is 
+based on what you rolled.
+Throughout this book, you will see special icons to 
+denote actions.
+[one-action]Single Actions
+Single actions use this symbol: [one-action]. They’re the simplest, 
+most common type of action. You can use three single 
+actions on your turn in an encounter, in any order you 
+see fit.
+[reaction] Reactions
+Reactions use this symbol: [reaction]. These actions can be used 
+even when it’s not your turn. You only get one reaction 
+per encounter round, and you can use it only when its 
+specific trigger is fulfilled. Often, the trigger is another 
+creature’s action.
+[free-action] Free Actions
+Free actions use this symbol: [free-action]. Free actions don’t 
+require you to spend any of your three single actions or 
+your reaction. A free action might have a trigger like a 
+reaction does. If so, you can use it just like a reaction—
+even if it’s not your turn. However, you can use only 
+one free action per trigger, so if you have multiple free 
+actions with the same trigger, you have to decide which 
+to use. If a free action doesn’t have a trigger, you use it 
+like a single action, just without spending any of your 
+actions for the turn.
+Activities
+Activities are special tasks that you complete by spending 
+one or more of your actions together. Usually, an activity 
+uses two or more actions and lets you do more than a 
+single action would allow. You have to spend all the 
+actions an activity requires for its effects to happen. 
+Spellcasting is one of the most common activities, as most 
+spells take more than a single action to cast.
+Activities that use two actions use this symbol: [two-actions]. 
+Activities that use three actions use this symbol: [three-actions]. A 
+few special activities, such as spells you can cast in an 
+instant, use a free action or a reaction.
+All tasks that take longer than a turn are activities. 
+If an activity is meant to be done during exploration, it 
+has the exploration trait. An activity that takes a day or 
+more of commitment and that can be done only during 
+downtime has the downtime trait.
+Reading Rules
+This book contains many rules elements that give 
+characters new and interesting ways to respond to 
+situations in the game. All characters can use the basic 
+actions found in Chapter 9, but an individual character 
+often has special rules that empower them to do things 
+most other characters can’t. Most of these options are 
+feats, which are gained by making certain choices at 
+character creation or when a character advances in level.
+Regardless of the game mechanic they convey, rules 
+elements are always presented in the form of a stat block, 
+a summary of the rules necessary to bring the monster, 
+character, item, or other rules element to life during play. 
+Where appropriate, rules presentations are introduced 
+with an explanation of their format. For example, the 
+Ancestry section of Chapter 2 contains rules for the eight 
+ancestries in this book, and an explanation of the ancestry 
+sections appears at the beginning of that chapter.
+The general format for stat blocks is shown here. 
+Entries are omitted from a stat block when they don’t 
+apply, so not all rule elements have all of the entries given 
+below. Actions, reactions, and free actions each have the 
+corresponding icon next to their name to indicate their 
+type. An activity that can be completed in a single turn 
+has a symbol indicating how many actions are needed to 
+complete it; activities that take longer to perform omit 
+these icons. If a character must attain a certain level 
+before accessing an ability, that level is indicated to the 
+right of the stat block’s name. Rules also often have 
+traits associated with them (traits appear in the Glossary 
+and Index).
+Spells, alchemical items, and magic items use a similar 
+format, but their stat blocks contain a number of unique 
+elements, such as the possible magical traditions for a 
+spell (see Chapter 7 for more on reading spells).
+ACTION OR FEAT NAME [one-action] LEVEL
+TRAITS
+Prerequisites Any minimum attributes, feats, proficiency ranks, 
+and so forth you must have to select this rules element are 
+here. Feats also have a level prerequisite, listed above.
+Frequency The limit on how often you can use the ability.
+Trigger Reactions and some free actions have triggers that 
+must be met before they can be used.
+Requirements Sometimes you must have a certain item or be 
+in a certain circumstance to use an ability.
+This section describes the effects or benefits of a rules element. 
+If the rule is an action, it explains what the effect is or what you 
+must roll. If it’s a feat that modifies an existing action or grants a 
+constant effect, the benefit is explained here.
+Special Any special qualities of the rule are explained in this 
+section. Usually this section appears in feats you can select 
+more than once, explaining what happens when you do.
+Sometimes an ability will grant multiple actions or an 
+action in addition to other benefits. These are condensed 
+into a shorter format using the same categories. 
+Action Name [one-action] (traits) Frequency how often it can be 
+used; Trigger when a reaction or free action can be used; 
+Requirements some actions require specific circumstances, 
+listed here; Effect this section explains how the ability 
+changes the world.
+CHARACTER CREATION
+Unless you’re the GM, the first thing you need to do when playing Pathfinder is create your 
+character. It’s up to you to imagine your character’s past experiences, personality, and 
+worldview, and this will set the stage for your roleplaying during the game. You’ll use the 
+game’s mechanics to determine your character’s ability to perform various tasks and use 
+special abilities during the game.
+This section provides a step-by-step guide for creating 
+a character using the Pathfinder rules, preceded by a 
+guide to help you understand attribute modifiers. These 
+modifiers are a critical part of your character, and you 
+will be asked to make choices about them during many 
+of the following steps. The steps of character creation 
+are presented in a suggested order, but you can complete 
+them in whatever order you prefer.
+Many of the steps on pages 18–27 instruct you to 
+fill out fields on your character sheet. The character 
+sheet is shown on pages 22–23; you can find a copy 
+in the back of this book or on paizo.com as a free 
+PDF. The character sheet is designed to be easy to use 
+when you’re actually playing the game, but creating a 
+character happens in a different order, so you’ll move 
+back and forth through the character sheet as you go 
+through the character creation process. Additionally, 
+the character sheet includes every field you might need, 
+even though not all characters will have something to 
+put in each field. If a field on your character sheet is 
+not applicable to your character, you can just leave that 
+field blank.
+All the steps of character creation are detailed on the 
+following pages; each is marked with a number that 
+corresponds to the sample character sheet on pages 
+22–23, showing you where the information goes. If the 
+field you need to fill out is on the third or fourth page 
+of the character sheet, which aren’t shown, the text will 
+tell you.
+If you’re creating a higher-level character, it’s a good 
+idea to begin with the instructions here, then turn to 
+page 29 for instructions on leveling up characters.
+OVERVIEW
+When you turn the page, you’ll see a visual representation 
+of ancestries and classes that provides at-a-glance 
+information for players looking to make the most of their 
+starting attribute modifiers. In the ancestries overview 
+on page 20, each entry lists which attribute modifiers it 
+boosts, and also indicates any attribute flaws the ancestry 
+might have. You can find more about attribute boosts and 
+flaws in Attribute Modifiers on page 19.
+The summaries of the classes on page 21 list each class’s 
+key attribute—the attribute modifier used to calculate 
+the potency of many of their class abilities. Characters 
+receive an attribute boost in their key attribute when you 
+choose their class. This summary also lists one or more 
+secondary attribute modifiers important to members of 
+that class.
+A character’s background also affects their attribute 
+modifiers, though there’s more flexibility in the attribute 
+boosts from backgrounds than in those from classes. For 
+descriptions of backgrounds, see pages 84–88
+Step 1:
+Create a Concept
+What sort of hero do you want to play? The answer to
+this question might be as simple as “a brave warrior,”
+or as complicated as “the child of elven wanderers,
+raised in a city dominated by humans and devoted to
+Sarenrae, goddess of the sun.” Consider your character’s
+personality, sketch out a few details about their past, and
+think about how and why they adventure. You’ll want
+to peruse Pathfinder’s available ancestries, backgrounds,
+and classes. The summaries on pages 20–21 might help
+you match your concept with some of these basic rule
+elements. Before a game begins, it’s also a good idea for
+the players to discuss how their characters might know
+each other and how they’ll work together throughout
+the course of their adventures.
+
+Each player takes a different approach to creating a
+character. Some want a character who will fit well into
+the story, while others look for a combination of abilities
+that complement each other mechanically. You might
+combine these two approaches. There is no wrong way!
+Once you have a good idea of the character you’d like
+to play, move on to Step 2 to start building your character.
+Ancestry, Background, Class, or Details
+If one of Pathfinder’s character ancestries, backgrounds,
+or classes particularly intrigues you, it’s easy to build a
+character concept around these options. The summaries of
+ancestries and classes on pages 20–21 give a brief overview
+of these options (full details appear in Chapters 2 and 3,
+respectively). Each ancestry also has several heritages that
+might refine your concept further, such as a gnome with
+a stronger connection to fey magic or one who comes
+from the underground, or an arctic or woodland elf. Some
+heritages, known as versatile heritages, can even be applied
+to any ancestry; for instance, mortals with divine influence
+can be born to any ancestry as nephilim. Additionally, the
+game has many backgrounds to choose from, representing
+your character’s upbringing, their family’s livelihood, or
+their earliest profession. Backgrounds are detailed later in
+Chapter 2, beginning on page 84.
+Building a character around a specific ancestry,
+background, or class can be a fun way to interact with the
+world’s lore. Would you like to build a typical member
+of your character’s ancestry or class, as described in the
+relevant entry, or would you prefer to play a character
+who defies commonly held notions about their people?
+For example, you could play a dwarf with a wide-eyed
+sense of wonder and a zest for change, or a performing
+rogue capable of amazing acrobatic feats but with little
+interest in sneaking about.
+You can draw your concept from any aspect of a
+character’s details. You can use roleplaying to challenge
+not only the norms of Pathfinder’s fictional world, but
+even real-life societal norms. Your character might
+challenge gender notions, explore cultural identity, have
+a disability, or any combination of these suggestions.
+Your character can live any life you see fit.
+Faith
+Perhaps you’d like to play a character who is a devout
+follower of a specific deity. Pathfinder is a rich world with
+myriad faiths and philosophies spanning a wide pantheon,
+from Cayden Cailean, the Drunken Hero of good-hearted
+adventuring; to Desna, the Song of Spheres and goddess
+of dreaming and the stars; to Iomedae, the Inheritor,
+goddess of honor, justice, and rulership. Pathfinder’s
+major deities appear on pages 35–39. Your character
+might be so drawn to a particular faith that you decide
+they should be a cleric of that deity; they might instead
+be a lay worshipper who applies their faith’s teachings to
+daily life, or simply the child of devout parents.
+THE SIX ATTRIBUTE MODIFIERS
+
+One of the most important aspects of your character is their attribute modifiers. These numbers represent your character’s
+raw potential, and they influence nearly every other statistic on your character sheet. Determining your attribute modifiers
+is not done all at once, but instead happens over several steps during character creation.
+Attribute modifiers are split into two main groups: physical and mental. Strength, Dexterity, and Constitution are physical
+attribute modifiers, measuring your character’s physical power, agility, and stamina. In contrast, Intelligence, Wisdom, and
+Charisma are mental attribute modifiers and measure your character’s learned prowess, awareness, and force of personality.
+Excellence in an attribute modifier improves the checks and statistics related to that ability, as described below. When imagining
+your character, you should also decide what attribute modifiers you want to focus on to give you the best chance at success.
+Strength
+
+Strength measures your character’s physical power. Strength
+is important if your character plans to engage in hand-to-hand
+combat. Your Strength modifier gets added to melee damage
+rolls and determines how much your character can carry.
+
+Dexterity
+
+Dexterity measures your character’s agility, balance, and
+reflexes. Dexterity is important if your character plans
+to make attacks with ranged weapons or use stealth to
+surprise foes. Your Dexterity modifier is also added to your
+character’s AC and Reflex saving throws.
+Constitution
+
+Constitution measures your character’s health and stamina.
+Constitution is important for all characters, especially those
+who fight in close range. Your Constitution modifier is added
+to your Hit Points and Fortitude saving throws.
+
+Intelligence
+
+Intelligence measures how well your character can learn
+and reason. A high Intelligence allows your character to
+analyze situations and understand patterns, and it means
+they can become trained in additional skills and might be
+able to master additional languages.
+Wisdom
+
+Wisdom measures your character’s common sense,
+awareness, and intuition. High Wisdom helps your character
+detect hidden things and resist mental effects. Your Wisdom
+modifier is added to your Perception and Will saving throws.
+
+Charisma
+
+Charisma measures your character’s personal magnetism
+and strength of personality. A high Charisma modifier helps
+you build relationships and influence the thoughts and
+moods of others with social skills.
+
+THE SIX ATTRIBUTE MODIFIERS
+
+One of the most important aspects of your character is their attribute modifiers. These numbers represent your character’s
+raw potential, and they influence nearly every other statistic on your character sheet. Determining your attribute modifiers
+is not done all at once, but instead happens over several steps during character creation.
+Attribute modifiers are split into two main groups: physical and mental. Strength, Dexterity, and Constitution are physical
+attribute modifiers, measuring your character’s physical power, agility, and stamina. In contrast, Intelligence, Wisdom, and
+Charisma are mental attribute modifiers and measure your character’s learned prowess, awareness, and force of personality.
+Excellence in an attribute modifier improves the checks and statistics related to that ability, as described below. When imagining
+your character, you should also decide what attribute modifiers you want to focus on to give you the best chance at success.
+
+ATTRIBUTE MODIFIER OVERVIEW
+
+Each attribute modifier starts at +0, representing the human average, but as you make character choices, you’ll adjust these
+modifiers by applying attribute boosts, which increase an attribute modifier, and attribute flaws, which decrease an attribute
+modifier. As you build your character, remember to apply attribute modifier adjustments when making the following decisions.
+Ancestry: Each ancestry provides attribute boosts, and sometimes an attribute flaw. If you are taking any voluntary
+flaws, apply them in this step (see the sidebar on page 24).
+Background: Your character’s background provides two attribute boosts.
+Class: Your character’s class applies an attribute boost to their key attribute: the attribute modifier most important for that class.
+Four Free Boosts: After the other steps, you apply four more attribute boosts to attributes of your choice to finalize your
+starting attribute modifiers.
+Attribute Boosts
+
+An attribute boost normally increases an attribute
+modifier’s value by 1. However, if the attribute modifier
+to which you’re applying an attribute boost is already +4
+or higher, instead mark “partial boost” on the character
+sheet for that attribute. If the attribute already has a
+partial boost invested in it, increase the modifier by 1 and
+uncheck the box. At 1st level, a character can never have
+any attribute modifier that’s higher than +4.
+When your character receives an attribute boost, the
+rules indicate whether it must be applied to a specific
+attribute modifier, to one of a limited list, or whether it is a
+“free” attribute boost that can be applied to any attribute
+modifier of your choice. Dwarves, for example, receive an
+
+attribute boost to their Constitution modifier and their
+Wisdom modifier, as well as one free attribute boost,
+which can be applied to any other attribute.
+When you gain multiple attribute boosts at the same
+time, you must apply each one to a different modifier.
+This means you can’t apply a partial boost to an attribute
+modifier and apply another boost simultaneously to
+increase it.
+
+Attribute Flaws
+
+Attribute flaws are not nearly as common in Pathfinder as
+attribute boosts. If your character has an attribute flaw—
+likely from their ancestry—you decrease that attribute
+modifier by 1.
+DWARF ELF GNOME GOBLIN
+
+Dwarves are a short, stocky
+people who are often stubborn,
+fierce, and devoted. Page 42.
+
+Elves are a tall, long-lived people
+with a strong tradition of art and
+magic. Page 46.
+
+Gnomes are short and hardy folk,
+with an unquenchable curiosity
+and eccentric habits. Page 50.
+
+Goblins are a short, scrappy,
+energetic people who have spent
+millennia maligned and feared.
+Page 54.
+
+Attribute Boosts*
+
+Constitution, Wisdom, Free Dexterity, Intelligence, Free Constitution, Charisma, Free Dexterity, Charisma, Free
+
+Attribute Flaw*
+
+Charisma Constitution Strength Wisdom
+
+*Any character can choose to take two free boosts instead of the listed boosts and flaws (page 24).
+
+ANCESTRIES
+
+HALFLING HUMAN LESHY ORC
+
+Halflings are a short, resilient
+people who exhibit remarkable
+curiosity and humor. Page 58.
+
+Humans are diverse and
+adaptable people with wide
+potential and deep ambitions.
+Page 62.
+
+Leshies are immortal nature
+spirits placed in small plant
+bodies, seeking to experience the
+world. Page 66.
+
+Orcs are proud, strong people
+with hardened physiques who
+value physical might and glory in
+combat. Page 70.
+
+Attribute Boosts*
+
+Dexterity, Wisdom, Free Two free attribute boosts Constitution, Wisdom, Free Two free attribute boosts
+
+Attribute Flaw*
+
+Strength — Intelligence —
+
+VERSATILE HERITAGES
+These heritages can be chosen for a member of any ancestry.
+
+CHANGELING NEPHILIM MIXED ANCESTRY
+
+Changelings are the children of malevolent
+hags, born with occult magic and the
+potential to hear a psychic Call. Page 76.
+
+Nephilim are influenced by the divine magic
+of the Outer Sphere, often with fiendish or
+celestial features. Page 78.
+
+Create a character, such as a half-elven
+aiuvarin or an orc-blooded dromaar, who
+comes from multiple ancestries. Page 82.
+BARD CLERIC DRUID FIGHTER
+
+The bard distracts foes and
+inspires allies with skilled
+performances and secrets of
+the occult. Page 94.
+
+The cleric calls on the power
+of a deity to cast spells that
+can heal allies or harm foes.
+Page 108.
+
+The druid uses the magic of
+the natural world to bolster
+allies and strike down
+enemies. Page 122.
+
+The fighter is a master
+of weapons, martial
+techniques, and powerful
+attack combinations.
+Page 136.
+
+Key Attribute**
+
+Charisma Wisdom Wisdom Dexterity or Strength
+
+Secondary Attributes
+
+Constitution, Dexterity Charisma, Constitution Constitution, Dexterity Constitution
+CLASSES
+
+RANGER ROGUE WITCH WIZARD
+
+The ranger is a master of
+using their surroundings,
+traps, and animal allies to
+harry enemies. Page 152.
+
+The rogue is a multitalented
+master of skulduggery who
+strikes when enemies least
+expect it. Page 164.
+
+The witch casts spells and
+hexes learned through a
+powerful familiar from a
+mysterious patron. Page 178.
+
+The wizard is a scholar
+whose reservoirs of arcane
+knowledge powers their
+wondrous spells and abilities.
+Page 192.
+
+Key Attribute**
+
+Dexterity or Strength Dexterity or other Intelligence Intelligence
+
+Secondary Attributes
+
+Constitution, Wisdom Charisma, Constitution Dexterity, Wisdom Dexterity, Constitution
+Your Allies
+You might want to coordinate with other players when
+forming your character concept. Your characters could
+have something in common already; perhaps they are
+relatives, or travelers from the same village, or maybe
+they met each other during a different adventure in
+their backstory. You might discuss mechanical aspects
+with the other players, creating characters whose
+combat abilities complement each other. In the latter
+case, it can be helpful for a party to include characters
+who deal damage, characters who can absorb damage,
+and characters who can heal and support their allies.
+However, Pathfinder’s classes include a lot of choices,
+and there are many options for building each type of
+character, so don’t let these broad categories restrict
+your decisions.
+
+CHARACTER SHEET
+
+Once you’ve developed your character’s concept, jot
+down a few sentences summarizing your ideas under the
+Notes section on the third page of your character sheet.
+Record any of the details you’ve already decided, such
+as your character’s name, on the appropriate lines on the
+first page.
+
+Step 2:
+Start Building
+Attribute Modifiers
+At this point, you need to start building your character’s
+attribute modifiers. See the overview of attribute
+modifiers on page 19 for more information about these
+important aspects of your character and an overview of
+the process.
+Your character’s attribute modifiers each start at +0,
+and as you select your ancestry, background, and class,
+you’ll apply attribute boosts, which increase a modifier
+by 1, and attribute flaws, which decrease a modifier by
+1. At this point, just note a +0 in each attribute modifier
+and familiarize yourself with the rules for attribute
+boosts and flaws on page 19. This is also a good time
+to identify which attribute modifiers will be most
+important to your character; for instance, if you want
+to play a dashing and nimble archer, you might want
+to focus on a character with a high Dexterity attribute
+(to ensure they’re good with ranged weapons) who
+also has a bit of Charisma (to fast-talk the authorities
+if they get caught). See The Six Attribute Modifiers
+on page 19 and the class summaries on page 21 for
+more information.
+Step 3:
+Select an Ancestry
+Select an ancestry for your character. The ancestry
+summaries on page 20 provide an overview of Pathfinder’s
+core ancestry options, and each is fully detailed in Chapter
+2. Ancestry determines your character’s size, Speed, and
+languages, and contributes to their Hit Points. Each also
+grants attribute boosts and attribute flaws to represent
+the ancestry’s basic capabilities.
+You’ll make four decisions when you select your
+character’s ancestry:
+• Pick the ancestry itself.
+• Select a heritage from those available within that
+ancestry, further defining the traits your character
+was born with.
+• Assign any free attribute boosts and decide if you
+are taking any voluntary flaws.
+• Choose an ancestry feat, representing an ability
+your hero learned at an early age.
+CHARACTER SHEET
+
+Write your character’s ancestry and heritage in the
+appropriate space at the top of your character sheet’s
+first page. Adjust your attribute modifiers, adding 1 to an
+
+attribute modifier if you gained an attribute boost from
+your ancestry, and subtracting 1 from an attribute modifier
+if you gained an attribute flaw from your ancestry. Note
+the number of Hit Points your character gains from their
+ancestry—you’ll add more to this number later. Finally, in
+the appropriate spaces, record your character’s size, Speed,
+and languages. If your character’s ancestry provides them
+with special abilities, write them in the appropriate spaces,
+such as darkvision in the Senses section on the first page
+and innate spells on the fourth page. Write the ancestry
+feat you selected in the Ancestry Feat section on your
+character sheet’s second page.
+Step 4:
+Pick a Background
+Your character’s background might represent their
+upbringing, an aptitude they’ve been honing since
+their youth, or another aspect of their life before they
+became an adventurer. Character backgrounds appear in
+Chapter 2, starting on page 84. They typically provide
+two attribute boosts (one that can be applied to either
+of two specific attribute modifiers, and one that is free),
+training in a specific skill, training in a Lore skill, and a
+specific skill feat.
+ALTERNATE ANCESTRY BOOSTS
+The attribute boosts and flaws listed in each ancestry
+represent general trends or help guide players to create
+the kinds of characters from that ancestry most likely
+to pursue the life of an adventurer. However, ancestries
+aren’t a monolith. You always have the option to replace
+your ancestry’s listed attribute boosts and attribute flaws
+entirely and instead select two free attribute boosts
+when creating your character.
+OPTIONAL: VOLUNTARY FLAWS
+Sometimes, it’s fun to play a character with a major
+flaw regardless of your ancestry. You can elect to take
+additional attribute flaws when applying the attribute
+boosts and attribute flaws from your ancestry. This is
+purely for roleplaying a highly flawed character, and you
+should consult with the rest of your group if you plan to
+do this! You can’t apply more than one flaw to any single
+attribute modifier.
+Record your character’s background in the space at the
+top of the first page of your character sheet. Adjust your
+attribute modifiers, adding 1 to an attribute modifier if
+you gained an attribute boost from your background.
+Record the skill feat the background provides in the Skill
+Feat section of your character sheet’s second page. On
+the first page, check the “T” box next to the name of
+the specific skill and for one Lore skill to indicate your
+character is trained, then write the name of the Lore skill
+granted by your background.
+Step 5:
+Choose a Class
+At this point, you need to decide your character’s class.
+A class gives your character access to a suite of heroic
+abilities, determines how effectively they fight, and governs
+how easily they can shake off or avoid certain harmful
+effects. Each class is fully detailed in Chapter 3, but the
+summaries on page 21 provide an overview of each.
+You don’t need to write down all of your character’s
+class features yet. You simply need to know which
+class you want to play, which determines the attribute
+modifiers that will be most important for your character.
+
+CHARACTER SHEET
+
+Write your character’s class in the space at the top of the
+first page of your character sheet, then write “1” in the
+Level box to indicate that your character is 1st level. Next
+to the attribute modifiers, note the class’s key attribute
+modifier, and add 1 to that attribute modifier from the
+attribute boost the class provides. Don’t worry about
+recording the rest of your character’s class features and
+abilities yet—you’ll handle that in Step 7.
+
+Step 6:
+Finish Attribute
+Modifiers
+Now that you’ve made the main mechanical choices
+about your character, it’s time to finalize their attribute
+modifiers. Do these two things:
+• First, make sure you’ve applied all the attribute
+boosts and attribute flaws you’ve noted in previous
+steps (from your ancestry, background, and class).
+• Then, apply four free attribute boosts to your
+character’s attribute modifiers. Choose a different
+attribute modifier for each and increase that
+attribute modifier by 1.
+Remember that each attribute boost adds 1 to the
+base modifier of +0, and each attribute flaw subtracts 1.
+You should have no attribute modifier lower than –1 or
+higher than +4.
+
+CHARACTER SHEET
+
+Write your character’s starting attribute modifiers in the
+box provided for each on the first page.
+Step 7:
+Record Class Details
+Now, record all the benefits and class features that your
+character receives from the class you’ve chosen. While
+you’ve already noted your key attribute modifier, you’ll
+want to be sure to record the following class features.
+• To determine your character’s total starting Hit Points,
+add together the number of Hit Points your character
+gains from their ancestry (chosen in Step 3) and the
+number of Hit Points they gain from their class.
+• The Initial Proficiencies section of your class entry
+indicates your character’s starting proficiency ranks
+in a number of areas. Choose which skills your
+character is trained in and record those, along
+with the ones set by your class. If your class would
+make you trained in a skill you’re already trained in
+(typically due to your background), you can select
+another skill to become trained in.
+• See the class advancement table in your class entry
+to learn the class features your character gains at 1st
+level. You already chose an ancestry, background,
+and free attribute boosts, but these are listed in the
+table as a reminder. Some class features require you
+to make additional choices, such as selecting spells.
+
+CHARACTER SHEET
+
+Write your character’s total Hit Points on the first page of
+your character sheet. Use the proficiency fields (the boxes
+marked “T,” “E,” “M,” and “L”) on your character sheet to
+record your character’s initial proficiencies in Perception,
+saving throws, and the skills granted by their class; mark
+“T” if your character is trained, or “E” if your character
+is an expert. Indicate which additional skills you chose
+for your character to be trained in by marking the “T”
+proficiency box for each skill you selected. Likewise,
+record your character’s armor proficiencies in the Armor
+Class section at the top of the first page and their weapon
+proficiencies at the bottom of the first page. Record all
+other class feats and abilities on the second page. Don’t
+worry yet about finalizing any values for your character’s
+statistics—you’ll handle that in Step 9.
+Step 8:
+Buy Equipment
+At 1st level, your character has 15 gold pieces (150
+silver pieces) to spend on armor, weapons, and other
+basic equipment. Your character’s class lists the types
+of weapons and armor with which they are trained (or
+better!). Their weapons determine how much damage
+they deal in combat, and their armor influences their
+Armor Class; these calculations are covered in more
+detail in Step 10.
+You’ll also want equipment like rope, torches, and other
+traveling gear, and maybe even an alchemical healing item
+or two if you get into a pinch. For more on the available
+equipment and how much it costs, see Chapter 6—there
+are even starting loadouts listed for each class on page
+268 for quicker selection and to give you a sense of what
+items and equipment certain classes prioritize.
+
+CHARACTER SHEET
+
+Once you’ve spent your character’s starting wealth,
+calculate any remaining gp, sp, and cp they might still
+have and write those amounts in the Inventory section
+on the second page. Record your character’s weapons
+in the Melee Strikes and Ranged Strikes sections of the
+first page, depending on the weapon, and the rest of their
+equipment in the Inventory section on the second page.
+You’ll calculate specific numbers for melee Strikes and
+ranged Strikes with the weapons in Step 9 and for AC
+when wearing that armor in Step 10.
+Step 9:
+Calculate Modifiers
+With most of the big decisions for your character
+made, it’s time to calculate the modifiers for each of the
+following statistics. If your proficiency rank for a statistic
+is trained, expert, master, or legendary, your bonus equals
+your character’s level plus another number based on the
+rank (2, 4, 6, and 8, respectively). If your character is
+untrained, your proficiency bonus is +0.
+Perception
+Your character’s Perception modifier measures how alert
+they are, and is equal to their proficiency bonus in Perception
+plus their Wisdom modifier. See page 404 for more.
+SPELLS AND SPELLCASTING
+Many characters can learn a few cantrips or focus spells,
+but the bard, cleric, druid, witch, and wizard all gain
+spellcasting—the ability to cast a wide variety of spells.
+If your character’s class grants spells, you should take
+time during Step 7 to learn about the spells they know
+and how to cast them. The fourth page of the character
+sheet provides space to note your character’s magic
+tradition and their proficiency rank for their spell attack
+modifier and spell DC. It also gives space to record the
+spells in your character’s repertoire or spellbook. Each
+class determines how and which spells a character can
+cast, but the spells themselves and detailed rules for
+spellcasting are located in Chapter 7.
+Saving Throws
+For each kind of saving throw, add your character’s
+Fortitude, Reflex, or Will proficiency bonus (as
+appropriate) plus the attribute modifier associated with
+that kind of saving throw. For Fortitude saving throws, use
+your character’s Constitution modifier. For Reflex saving
+throws, use your character’s Dexterity modifier. For Will
+saving throws, use your character’s Wisdom modifier.
+Then add in any bonuses or penalties from abilities, feats,
+or items that always apply (but not modifiers, bonuses,
+or penalties that apply only in certain situations). Record
+this number on the line for that saving throw.
+Melee Strikes and Ranged Strikes
+Next to where you’ve written your character’s melee and
+ranged weapons, calculate the modifier to Strike with
+each weapon and how much damage that Strike deals.
+The modifier for a Strike is equal to your character’s
+proficiency bonus with the weapon plus an attribute
+modifier (usually Strength for melee Strikes and Dexterity
+for ranged Strikes). You also add any item bonus from
+the weapon and any other permanent bonuses or
+penalties. You also need to calculate how much damage
+each weapon’s Strike deals. Melee weapons usually add
+your character’s Strength modifier to damage rolls, while
+ranged weapons might add some or all of your character’s
+Strength modifier, depending on the weapon’s traits. See
+the weapon entries in Chapter 6 for more information.
+Skills
+In the second box to the right of each skill on your
+character sheet, there’s an abbreviation to remind you
+of the attribute modifier for that skill. For each skill in
+which your character is trained, add your proficiency
+bonus for that skill (typically +3 for a 1st-level character)
+to the indicated attribute’s modifier, as well as any other
+applicable bonuses and penalties, to determine the total
+modifier for that skill. For skills your character is untrained
+in, use the same method, but your proficiency bonus is +0.
+
+CHARACTER SHEET
+
+For Perception and saving throws, write your proficiency
+bonus and the appropriate attribute modifier in the boxes
+provided, then record the total modifier in the large space.
+Record the proficiency bonuses, attribute modifiers, and
+total modifiers for your melee Strikes and ranged Strikes
+in the box after the name of each weapon, and record the
+damage for each, along with the traits for that attack. For
+skills, record the attribute modifier and proficiency bonus
+in the appropriate box for each skill, and then write the
+total skill modifiers in the spaces to the left.
+If your character has any modifiers, bonuses, or
+penalties from feats or abilities that always apply, add
+them into the total modifiers. For ones that apply only in
+certain situations, note them next to the total modifiers.
+Step 10:
+Finishing Details
+Now add the following details to your character sheet.
+There are boxes for edicts and anathema, deity, age, and
+gender and pronouns on page 3 of the character sheet.
+Edicts and Anathema
+You can choose to take on edicts and anathema to
+reinforce your character’s beliefs and guide how they’d
+react in certain situations. Edicts are behaviors your
+personal philosophy or code encourages. Anathema are
+the opposite: actions contrary to your point of view and
+violations of your personal code. For example, you might
+declare that you follow an edict to keep detailed records
+of any dungeon you explore, or you might consider it
+anathema to refuse to help a friend in need.
+For most characters, these are entirely optional, though
+it’s best to consider taking some on as you create your
+character to hone in on how they think. If you follow a
+deity, you might take inspiration from the edicts and
+anathema listed for them on pages 35–39. Ancestry entries
+list edicts and anathema prevalent among their societies.
+Required Edicts and Anathema
+Certain classes have anathema tied to them; for example,
+a cleric gains the edicts and anathema of their deity.
+Violating these can cause you to lose some class abilities
+until you atone or make amends (as described in the class).
+Changing Edicts and Anathema
+Edicts and anathema can change during play as a
+character’s beliefs evolve, or as you realize that your
+character’s actions reflect a different set of values than
+you once thought. In most cases, you can just change a
+relevant edict or anathema and continue playing.
+Deity
+Write down the deity your character worships, if any.
+Clerics must worship a deity. See pages 35–39 for more
+about Pathfinder’s deities.
+Age
+Decide your character’s age and note it on the third
+page of the character sheet. The description for your
+character’s ancestry in Chapter 2 gives some guidance on
+the age ranges of members of that ancestry. Beyond that,
+you can play a character of whatever age you like. There
+aren’t any mechanical adjustments to your character
+for being particularly old, but you might want to take
+it into account when considering your starting attribute
+modifiers and future advancement. Particularly young
+characters can change the tone of some of the game’s
+threats, so it’s recommended that characters are at least
+young adults.
+Gender and Pronouns
+Characters of all genders are equally likely to become
+adventurers. Record your character’s gender, if
+applicable, and their pronouns on the third page of the
+character sheet.
+Class DC
+A class DC sets the difficulty for certain abilities granted
+by your character’s class. This DC equals 10 plus their
+proficiency bonus for their class DC (+3 for most
+1st-level characters) plus the modifier for the class’s key
+attribute modifier.
+
+Hero Points
+Your character usually begins each game session with
+1 Hero Point, and you can gain additional Hero Points
+during sessions by performing heroic deeds or devising
+clever strategies. Your character can use Hero Points to
+gain certain benefits, such as staving off death or rerolling
+a d20. See page 413 for more about Hero Points.
+Armor Class (AC)
+Your character’s Armor Class represents how difficult they
+are to hit in combat. To calculate your AC, add 10 plus
+your character’s Dexterity modifier (up to their armor’s
+Dexterity modifier cap; page 271), plus their proficiency
+bonus with their armor, plus their armor’s item bonus to
+AC and any other permanent bonuses and penalties.
+Bulk
+Your character’s maximum Bulk determines how much
+weight they can comfortably carry. If they’re carrying a
+total amount of Bulk that exceeds 5 plus their Strength
+modifier, they are encumbered. A character can’t carry a
+total amount of Bulk that exceeds 10 plus their Strength
+modifier. The Bulk your character is carrying equals the
+sum of all of their items; keep in mind that 10 light items
+make up 1 Bulk. You can find out more about Bulk in
+Chapter 6.
+Sample Character
+This step-by-step example illustrates the process of
+creating a Pathfinder character.
+Steps 1 and 2
+Adam is making his first Pathfinder character. After
+talking about it with the rest of the group, he’s decided
+to make a dwarf druid. After jotting down a few ideas, he
+begins by writing down a +0 for each attribute modifier.
+Step 3
+Adam looks up the dwarf entry in Chapter 2. He records
+the attribute boosts to his Constitution and Wisdom
+modifiers (bringing both up to +1). He also applies the
+attribute flaw to his Charisma, dropping it to –1. For his
+free attribute boost, he chooses Dexterity to boost his
+defenses, raising it to +1 as well. He also records the 10
+Hit Points the ancestry gives him. Next, he returns to his
+character sheet to record the size, Speed, language, and
+darkvision ability he gets from being a dwarf. Finally, he
+decides on a heritage, writing “rock dwarf” next to dwarf,
+and he picks an ancestry feat, deciding on Rock Runner,
+to show his character’s strong connection to stone.
+Step 4
+Looking through the backgrounds, Adam likes the idea
+of a solitary dwarven druid, and the nomad background
+makes for a good choice. For the first attribute boost
+granted by the background, Adam chooses Wisdom, and
+for the free attribute boost, he chooses Constitution,
+taking both up to +2. On the second page, he writes
+“Assurance (Survival)” in the Skill Feats area, on the
+Background line. Finally, returning to the first page, he
+writes “cave” next to the first Lore skill entry and checks
+the box under the “T” for that skill and Survival.
+Step 5
+Adam writes “druid” on the class line of his character
+sheet and fills in the number 1 in the level box. The druid
+class grants an attribute boost to its key attribute, which is
+Wisdom, so Adam’s character has his Wisdom raised to +3.
+Step 6
+Adam applies four more attribute boosts to determine
+his starting attribute modifiers. After giving it some
+thought, he applies them to Wisdom (raising it to +4),
+since that’s the most important attribute modifier for
+his class, and to Strength, Dexterity, and Constitution
+(raising them to +1, +2, and +3, respectively) to make
+him better in combat. He then writes his final attribute
+modifiers down on his character sheet.
+Step 7
+As Adam applies his class, he has a number of things
+to figure out. First, he starts by recording all of his
+initial proficiencies, marking the appropriate boxes in
+the Armor Class, Saving Throws, Weapon Proficiencies,
+Spell Attack Modifier, and Spell DC areas of his sheet.
+Turning to skills, he marks Nature as trained and notes
+that once he picks his druid order, he’ll become trained
+in another skill determined by that order. He then gets to
+choose two more skills (if he had a higher Intelligence,
+he would have gotten more). He decides on Athletics
+and Medicine, marking both of them as trained. Next,
+he adds the 8 Hit Points from the druid class and his
+Constitution modifier of +3 to the 10 Hit Points from
+his dwarf ancestry for an impressive 21 total Hit Points.
+Moving on to class features, Adam chooses the Animal
+Empathy feat from voice of nature and marks that and the
+Shield Block feat in the bonus feats area. He makes note
+of the anathema for being a druid and records Wildsong
+in his language section. Next, he looks through the druid
+orders and decides upon the untamed order, which gives
+him his final trained skill (Intimidation), the ability to cast
+untamed shift, and the Untamed Form feat, which lets
+him cast a focus spell to turn into an animal. He writes
+these spells in the focus spell area of his character sheet.
+Because he has two focus spells, he notes that he has 2
+Focus Points to use to cast these spells.
+Finally, a druid can cast a limited number of primal
+spells. Although he can change them every morning, Adam
+is curious, and he turns to Chapter 7: Spells to decide
+what spells he might cast. He jots down five cantrips and
+two 1st-rank spells and marks them as prepared.
+Step 8
+Next up, Adam turns to Chapter 6: Equipment. He’s
+trained in medium armor and chooses hide armor. For
+weapons, he decides on a spear, but he buys two just in
+case he wants to throw the first one. He writes all of
+these on the front of his character sheet. Adam lists the
+spear under both melee Strikes and ranged Strikes, and
+he also writes the claws he gains from untamed shift
+under his melee Strikes, because he’s sure that he’ll be
+casting that spell a lot. He records the rest of his gear in
+the Inventory section on the second page, along with any
+currency left over after buying his starting gear.
+Step 9
+Adam records all of the attribute modifiers for Perception,
+saving throws, Strikes, and skills. He then puts a “+3”
+in the box marked Prof to indicate his proficiency bonus
+for each statistic he’s trained in (1 for his level, plus 2
+for being trained) and “+5” in any that he is an expert.
+Then, he adds up his modifiers for each statistic.
+Step 10
+Finally, Adam fills out the final details of his character,
+calculating his AC and Bulk limits. Last but not least, he
+fills in some last-minute information about his character
+and decides on a name. Gar the dwarf druid is ready for
+his first adventure!
+LEVELING UP
+With each terrifying beast and deadly trap bested, a character earns Experience Points (XP)
+that allow them to increase in level. Each level grants greater skill, increased resiliency, and
+new capabilities, allowing your character to face even greater challenges and go on to earn
+even more impressive rewards.
+Each time your character reaches 1,000 Experience
+Points, their level increases by 1. On your character
+sheet, indicate your character’s new level beside the
+name of their class, and deduct 1,000 XP from their
+XP total. If you have any Experience Points left after
+this, record them—they count toward your next level,
+so your character is already on their way to advancing
+yet again!
+Next, return to your character’s class entry. Increase
+your character’s total Hit Points by the number
+indicated for your class. Then, take a look at the class
+advancement table and find the row for your character’s
+new level. Your character gains all the abilities listed
+for that level, including new abilities specific to your
+class and additional benefits all characters gain as they
+level up. For example, all characters gain four attribute
+boosts at 5th level and every 5 levels thereafter.
+You can find all the new abilities specific to your class,
+including class feats, right in your class entry, though
+you can also use class feats to take an archetype (page
+215). Your character’s class entry also explains how
+to apply any attribute boosts and skill increases your
+character gains. If they gain an ancestry feat, head back
+to the entry for your character’s ancestry in Chapter 2
+and select another ancestry feat from the list of options.
+If they gain a skill increase, refer to Chapter 4 when
+deciding which skill to apply it to. If they gain a general
+feat or a skill feat, you can choose from the feats listed
+in Chapter 5. If they can cast spells, see the class entry
+for details on adding spell slots and spells. It’s also a
+good idea to review your character’s spells
+in Chapter 7 and see if there are
+heightened versions they can
+now cast.
+Once you’ve made all your
+choices for your character’s new
+level, be sure to go over your
+character sheet and adjust any
+values that have changed. At a bare
+minimum, your trained or higher
+proficiency bonuses all increase by 1
+because you’ve gained a level, so your
+AC, attack rolls, Perception, saving
+throws, skill modifiers, spell DC, and
+class DC all increase by at least 1. You
+might need to change other values
+because of skill increases, attribute boosts,
+or class features that either increase your proficiency
+rank or increase other statistics at certain levels. If an
+attribute boost increases your character’s Constitution
+modifier, recalculate their maximum Hit Points using
+their new Constitution modifier (typically this adds 1 Hit
+Point per level). If an attribute boost increases
+your character’s Intelligence modifier, they
+become trained in an additional skill and
+language. Some feats grant a benefit based
+on your level, such as Toughness, and these
+benefits are adjusted whenever you gain a
+level as well.
+You can perform the steps in the
+leveling-up process in whichever order
+you want. For example, if you wanted
+to take the skill feat Intimidating
+Prowess as your skill feat at 10th
+level, but your character’s Strength
+modifier was only +2, you could
+first increase their Strength modifier
+to +3 using the attribute boosts gained
+at 10th level, and then take Intimidating Prowess as a
+skill feat at the same level.
+LEVELING-UP CHECKLIST
+
+Every time you gain a level, make sure you do each of
+the following:
+• Increase your level by 1 and subtract 1,000 XP from
+your XP total.
+• Increase your maximum Hit Points by the amount
+listed in your class entry in Chapter 3.
+• Add class features from your class advancement table,
+including attribute boosts and skill increases.
+• Select feats as indicated on your class advancement
+table. For ancestry feats, see Chapter 2. For class feats,
+see your class entry in Chapter 3. For general feats and
+skill feats, see Chapter 5.
+• Add spells and spell slots if your class grants
+spellcasting. See Chapter 7 for spells.
+• Increase all of your trained or higher proficiency
+bonuses by 1 from your new level, and make other
+increases to your proficiency bonuses as necessary
+from skill increases or other class features. Increase
+any other statistics that changed as a result of attribute
+boosts or other abilities.
+• Adjust bonuses from feats and other abilities that are
+based on your level.
+
+GOLARION AND THE INNER SEA
+While some players prefer to create a character and define them solely through roleplay,
+other players may wish to tie their character into the world through backstory and motives.
+Knowing the setting of the world you intend to play in can help flesh out your character, or
+even give rise to new ideas for a character that you hadn’t considered.
+
+ADJUSTING THE SETTING
+Feel free to make Golarion your own! If something we
+write in our books gets in the way of a concept you want
+to play, ask your group and your GM if you can change
+it. What’s important isn’t that you agree with the “official”
+material that we publish, but that the people you play with
+facilitate communal storytelling.
+In fact, you don’t have to use this setting! While the
+Pathfinder RPG rules do make some assumptions about the
+world, many of these assumptions are common within the
+fantasy genre. Elements that are more specific to Golarion
+are often confined to certain feats and archetypes, which
+you can change and remove as you see fit. You can easily
+use the rules of Pathfinder to run a different setting, or a
+world of your own creation.
+
+PATHFINDER SOCIETY
+A prominent group of adventurers, explorers, and
+chronicle-keepers, the Pathfinder Society is well known
+across Golarion. This name is shared with Paizo’s official
+organized play campaign played around our world. Visit
+PathfinderSociety.club to learn how you can participate!
+The Pathfinder Roleplaying Game rules come with their
+own default setting, known as Golarion. Golarion is a
+world of magic, strange beasts and monsters, dragons,
+sword-fighting adventure, and even some elements of
+science fiction and technology. It draws inspiration from
+many real-world nations and cultures, while combining
+it with fantasy to make it a separate, unique place. Many
+disparate characters are at home in Golarion’s setting,
+and there are many historical events, people, and plot
+hooks that a player can base a character around.
+The Age of Lost Omens
+For most of Golarion’s existence, arcane prophecy and
+divine visions foretold of major events and great heroes.
+In 4606 ar, prophecy decreed that the God of Humanity,
+Aroden, would return to Golarion and usher in a new age
+of glory. Instead, Aroden died, destroying the reliability of
+prophecy with him. Unbound and unguided by fate, the
+people of Golarion are now free to carve out their own
+destinies in the current era, the Age of Lost Omens.
+What Does My Character Know?
+As someone who lives in a magical fantasy world, a
+person from Golarion has a different set of assumptions
+than someone from modern Earth. The following are
+some of these setting assumptions to keep in mind as you
+create your character. For more information on the world
+of Golarion, see the Pathfinder Lost Omens World Guide
+for a basic primer, and the Lost Omens setting line for a
+deeper look at different parts of the world.
+• Golarion is magical. Stories of wizards who can
+cast spells and pious servants of the gods who can
+conjure miracles are commonplace, and people know
+that they are real. While very powerful magicians are
+rare, most villages have a few people who have some
+minor magical ability.
+• Golarion has technology. The concept of a flintlock
+pistol or a clockwork machine isn’t baffling to most
+people, though there are exceptions in some regions.
+However, the line between technology and magic is
+fuzzy for many, and they might easily mistake one for
+the other!
+• Golarion is multicultural. Much like the real world,
+Golarion has many different nations and cultures all
+across the globe. Magical transportation, historical
+explorations, and well-trod trade routes have seen
+people from all over the world travel to other
+locales. While immigrants and travelers from other
+continents may not be common, they’re certainly
+not impossible.
+• Golarion is ancient. The known history of Golarion
+spans nearly 6,000 years, and that doesn’t include the
+history that people don’t know about! This long and
+storied past means that there’s always some new secret
+or discovery to be dug up by scholars—or some ancient
+curse or threat waiting to be uncovered and set free.
+• Golarion is dangerous. There’s almost always something
+causing trouble on Golarion, from bandits to dragons
+to corrupt nobles and would-be tyrants. Those who
+seek to travel look to brave adventurers to forge the
+way, ensuring their safety in a frightening world!
+The Inner Sea Region
+Because Golarion is so large, much of the adventures and
+information we publish is focused on a specific region of
+the world. This region is known as the Inner Sea region,
+consisting of the northern continent of Avistan and half of
+the southern continent known as Garund. The titular Inner
+Sea was created when a meteor struck the planet in an event
+known as Earthfall, which created a long gulf that is now
+filled with water.
+For simplicity, the Inner Sea region is further divided
+into the following ten regions, which each have different
+themes. These themes can help you tie your character to
+the world, giving them a backstory that feels like part of
+a larger story. Note that some of these themes are based
+on rules and lore from other books, giving you even more
+character possibilities.
+Absalom and the Starstone Isle
+Theme: Fantasy Megacity
+Known as the City at the Center of the World, Absalom
+displays the glory and squalor that only a major metropolis
+can provide. Its crowning jewel is the Starstone, a magic
+artifact that can turn someone who touches it into a god—
+but only a handful of people have ever survived the attempt.
+Absalom’s glittering promise of opportunity is there for
+those who reach for it, provided they ignore the pile of
+bodies that promise is built on.
+Example Characters
+• A jaded investigator seeking answers, but knowing the
+truth lies with powerful people out of your reach.
+• A sewer kobold trap master, protecting your home from
+threats above and below with machinery and guile.
+• A servant of a failed god, conjuring the essence of your
+master to give them another chance at divinity.
+Broken Lands
+Theme: Survival in an Extreme Land
+Civilization is disconnected in the Broken Lands, separated
+by miles of brutal terrain. In some nations, these landscapes
+are simply wild, filled with hardships that other lands have
+forgotten—rushing rivers and craggy earth, where settlers
+face down harsh winters and wild animals to survive. In
+other nations, the environment is plagued by unnatural
+dangers, such as scattered legions of forsaken demons or
+metallic horrors that fell from the stars. Living is a constant
+battle that leaves little time for anything else, but those who
+manage it are usually self-sufficient and tough as nails.
+This region includes Brevoy, a nation once united by a
+dragon-riding conqueror but now on the brink of civil war;
+Mendev, a crusader nation struggling against the remnants of
+demonic armies; Numeria, a harsh land plagued by robotic
+horrors from a crashed spaceship; Razmiran, an exploitive
+theocracy ruled by a living god; the River Kingdoms, a
+lawless region where kingdoms rise and fall by the year; and
+the Sarkoris Scar, a demon-blighted land that has recently
+gained a spark of hope that one day it might be restored.
+Example Characters
+• A battle-scarred demon slayer, veteran of a crusade
+against the Outer Rifts that lasted over 100 years.
+• A barbarian who wields an unearthly sword, a
+technological trophy beyond your understanding.
+• A god caller, who summons one of the Old Sarkorian
+gods into incarnate form to stalk the earth by your side.
+• A disguised android, child of a fallen starship,
+tasked with finding your way in a world that doesn’t
+understand you.
+• A would-be king, determined to carve a nation from the
+wilderness—and if you’re lucky, keep it.
+Eye of Dread
+Theme: Horror and War
+The Eye of Dread is a land that is soaked in blood. From
+the earliest days after Earthfall, when the orc hordes boiled
+up from underground tunnels ahead of their dwarven foes,
+the region has been plagued by conflict and carnage. The
+infamous lich Tar-Baphon, known as the Whispering Tyrant,
+has raised undead armies here three times; he has been pushed
+back twice by heroes, but it remains to be seen whether he
+can be felled once more. Yet even the overwhelming threat
+of the lich may not be able to overcome the old hatreds and
+jingoistic warhawks that have plagued the area, as Molthune
+plots to conquer Nirmathas and find revenge against Oprak.
+This region includes Belkzen, the home of the orc
+holds that recently united under threat from Tar-Baphon;
+the Gravelands, formerly the nation of Lastwall, which
+Tar-Baphon utterly destroyed a few years ago; the Eye
+of Terror, the island that serves as Tar-Baphon’s lair;
+Molthune, a militaristic and jingoistic nation that has
+recently taken several blows to its pride; Nirmathas, a
+fiercely independent region in a precarious fight for its
+survival; Oprak, a newly founded nation for hobgoblins
+and other peoples often considered “monsters”; and
+Ustalav, a grim and haunted nation filled with ghosts,
+werecreatures, vampires, and other children of the night.
+Example Characters
+• A doomed noble scion of Ustalav, seeking an end to
+your family’s curse before it claims your life.
+• An outcast inventor, shunned for your forays into new
+technologies and their untapped potential.
+• A crusader against undead hordes, praying your
+newfound camaraderie and the Crimson Oath you
+swore will keep you safe, or at least make your death
+quick and clean.
+• A grim orc champion, veteran of wars against humanity,
+now tasked with making alliances and inroads with
+people you once despised.
+Golden Road
+Theme: Wealth and Ancient Empires
+Though the deserts in this region may seem inhospitable, its
+rivers teem with life, including some of the oldest civilizations
+in the Inner Sea. The prestige of these civilizations, combined
+with extremely lucrative trade routes, has made the local
+nations wealthy and luxurious for many. Despite this stability,
+the land isn’t short on perils—an ancient history leaves
+plenty of old monsters and curses, and long-entrenched evils
+lurk in uninhabited reaches to prey on the unwary. Keeping
+such old empires from falling into decline may be an even
+greater challenge, and both rulers and scholars search for
+new ways to keep their nations relevant in a changing world.
+This region includes Katapesh, a market city that made
+its fortune on illicit dealings; Osirion, an empire filled with
+ruins from its glorious past; Qadira, a distant satrapy of
+the eastern Kelesh Empire; Rahadoum, a nation of militant
+atheists who banned religion after holy wars devastated
+their country; and Thuvia, a small nation renowned for
+alchemical and technological wonders.
+Example Characters
+• A curse-dodging archaeologist, given special permission
+by the Ruby Prince to explore ancient tombs and
+remove their dangers.
+• An atheist scientist, developing innovative medicine to
+heal without bowing to the demands of gods.
+• A clockwork engineer, struggling to recreate the
+wondrous technologies of a long-extinct empire.
+• A desert nomad, with knowledge of how to avoid the
+demons and howling monsters of the Golden Road,
+constantly sought by merchants as a guide.
+• A student of alchemy, hoping to one day gain admittance
+to the Citadel of the Alchemist, and learn from the man
+who discovered the secret of immortality.
+High Seas
+Theme: Lawless Reaches and Swashbuckling Adventure
+Try as they might, no nation can claim control of the seas.
+Fleets from powerful empires have sought to try, only to run
+afoul of marauding corsairs and supernatural hurricanes.
+Despite the sea’s crucial role in travel and trade, monsters,
+privateers, and underwater civilizations make the oceans
+something close to a free-for-all—and that’s just how
+many of its residents like it. The pirates of the Shackles
+are a scourge on merchants, and navies are locked in a
+formidable arms race to stay one step ahead of the swift
+raiding ships. Mysterious locales also dot the vast oceans:
+the twisting Mordant Spire, the assassin headquarters of
+Mediogalti Island, or the shattered chunks that remain of
+the destroyed continent of Azlant.
+Example Characters
+• A Red Mantis assassin, tasked by your god to carry out
+bloody contracts for money as a holy rite.
+• An elf of the Mordant Spire, following the mysterious
+whispers of a deceased divinity.
+• A tengu jinx eater, believed by your seafaring comrades
+to be able to devour misfortune—so much so they
+press-ganged you into service!
+Impossible Lands
+Theme: Powerful Magic—and its Consequences
+The Impossible Lands exist, despite their common moniker,
+but have been dubbed as such by those in disbelief of their
+splendors—and in horror of their atrocities. A magical war
+between two immortal wizards dragged on for millennia,
+and the damage done by their hubris has never healed. Huge
+stretches of land are blighted by erratic magic and undead
+mutants, and plagued by hellish storms of molten glass and
+living weapons of war. In response to the chaos of magic
+gone wrong, people have developed technology to rely upon
+instead, though these destructive guns and cannons may
+prove just as ruinous as the spells they were meant to replace.
+This region includes Alkenstar, a technological city that
+lies in a region where magic is dead; Geb, a nation ruled
+by a ghostly wizard and his undead subjects; Jalmeray, a
+colony of Vudra, filled with magic, martial disciplines, and a
+stained legacy; the Mana Wastes, a desert wracked by erratic
+magic from the wizard wars; and Nex, a nation of magical
+wonders that hides its rotting interior.
+Example Characters
+• A gun-toting mutant staging raids on caravans to
+acquire precious ammunition and black powder.
+• A student alchemist in the glass-domed city of
+Oenopion, who saw the horrible fate of another
+apprentice and now fears for your life.
+• A magical doll designed to be a simple helper construct,
+but who has begun to develop a mind of your own.
+• A street prophet who has heard the whispers of victims
+that were murdered and thrown into the ooze bath that
+dwells beneath your city.
+Mwangi Expanse
+Theme: Mighty Cities and Abundant Wilds
+One of the most diverse regions on Golarion, this
+equatorial landscape is filled with jungles, savannas,
+mountains, and swamps. Nestled in this wilderness
+are great city-states, isolated mainly due to their self-
+sufficiency. The Mwangi Expanse is rich in resources and
+danger alike, both stemming mainly from the natural
+world—though supernatural menace likewise lurks in the
+forests, from carnivorous firefly gods to demonic gorillas.
+This region includes Bloodcove, a haven for pirates
+across the Inner Sea; Kibwe, a merchant city watched
+over by mysterious statues; Mzali, an ancient city under
+the rule of a mummified child; Nantambu, home of the
+oldest magical academy in the Inner Sea; Senghor, a naval
+powerhouse with unique ceramic ships; Usaro, a chaotic
+city controlled by demonic apes and monkeys; and Vidrian,
+a nation that recently threw off its colonial shackles.
+Example Characters
+• A student of the Magaambya, plucked from your village
+life to study at the magical college in Nantambu.
+• A Vidric rebel, who wrested the freedom of your nation
+from foreign overlords and pirates alike.
+• A warrior of the Bright Lions, seeking to overthrow the
+undead child-god who rules over your city.
+• An astrologist of the drowned nation of Lirgen, tirelessly
+researching a means to end the eternal hurricane that
+destroyed your homeland.
+Old Cheliax
+Theme: Political and Spiritual Corruption
+The nation of Cheliax is Hell come to earth. In the wake
+of Aroden’s death, a civil war between nobles saw House
+Thrune rise triumphant—their victory sealed by a bargain
+with devils. What was once one of the greatest human
+empires on Golarion has declined into an iron-fisted
+tyranny, crushing any dissent with the full force of the state.
+Its allies include the nation of Nidal, a land that turned itself
+over to the god of darkness and pain in order to survive
+an apocalypse. These twisted kingdoms have not gone
+unchallenged, however, and rebellion continues to foment in
+the wake of their cruelties.
+This region includes Cheliax, a damned empire whose
+leaders have pledged themselves to Hell; Isger, a vassal of
+Cheliax wracked by neglect and war; Nidal, the shadowy
+domain of Zon-Kuthon; and Ravounel, a former vassal state
+that freed itself from Cheliax via a contractual loophole.
+Example Characters
+• A halfling rebel, using your status as an ignored
+underclass to spy on your masters for freedom fighters.
+• A secret follower of Desna, the god of luck and dreams,
+preaching in Nidal while avoiding the notice of the
+nation’s shadowy priests.
+• A noble of Cheliax who signed a contract with the devil
+in your youth and are starting to have second thoughts.
+• A native of Nidal, gifted with power over darkness
+from your patron god of Zon-Kuthon—whether you
+worship him or not.
+Saga Lands
+Theme: Heroic Adventure and Legacy
+A sprawling frontier dotted with cities, this region
+demands exploration both by custom and necessity. Many
+people here still live nomadic lifestyles, traveling wilderness
+roads in lively caravans, or following herds of massive
+megafauna that serve as food. As often as not, one can find
+adventure on these journeys, as the land is riddled with
+curious ruins and epic monsters. The mysteries of the Saga
+Lands don’t rest easily, as powerful spellcasters from the
+ancient past have returned over the last few decades, intent
+on reclaiming what was once theirs!
+This region includes Irrisen, a frozen land conquered by
+the witch Baba Yaga and now ruled by her descendants; the
+Lands of the Linnorm Kings, a nation of fearsome warriors
+and raiders; New Thassilon, a pair of cities brought forward
+in time from thousands of years in the past; the Realm of the
+Mammoth Lords, where megafauna from ancient times still
+lives side by side with humanity; and Varisia, where strange
+and powerful cities dot a sprawling wilderness.
+Example Characters
+• An ice witch granted frost magic by a distant relation
+to Baba Yaga, trying to avoid attention from your cruel
+and powerful relatives.
+• An average citizen of a long-lost empire, dragged
+through time by magical powers beyond your control.
+• A Varisian merchant sprinting across the continent to
+sell your goods for high prices to southern nobles.
+Shining Kingdoms
+Theme: Knights, Councils, and Castles
+Tales of gallant cavaliers and fire-breathing dragons
+dominate the cultural zeitgeist of this land—though these
+days, dragons are sparse on the ground, and cavaliers far
+more worldly and unpleasant. Though not home to the
+most powerful of nations, the influence of this region can’t
+be overstated. Armies from this land have marched to face
+some of the direst threats the Inner Sea region has ever
+seen, while scholars from cities spread their ideology across
+the world, from rousing endorsements of democracy to
+bloody justice and rebellion.
+This region includes Andoran, a bastion for democratic
+governance and freedom for all; Druma, a trade hub obsessed
+with material gain; the Five Kings Mountains, home to
+fractured kingdoms of the dwarves; Galt, a land wracked
+from violence and revolution; Kyonin, the illusion-cloaked
+homeland of the elves; and Taldor, the ossified remnants of
+one of the most powerful empires in the Inner Sea.
+Example Characters
+• A smiling government agent, seeking out enemies of the
+state and dealing with them as necessary.
+• An elven ranger that stalks the corrupted forest of
+Tanglebrair, sniping any demons you encounter from
+your forested perches.
+• A dwarven delver, exploring deep tunnels beneath the
+earth and risking encounters with the terrible creatures
+that lurk down there.
+Regional Languages
+These regional languages are uncommon outside the region
+of their genesis. A character hailing from one of the regions
+listed below automatically has access to that language. In
+the Inner Sea region, the language referred to as Common
+elsewhere in the rules is the same as Taldane.
+TABLE 2–3: REGIONAL LANGUAGE
+Language Speakers
+Hallit Broken Lands, Eye of Dread, Saga Lands
+Kelish Golden Road
+Mwangi Mwangi Expanse, the Shackles, Thuvia, Vidrian
+Osiriani Geb, Katapesh, Mana Wastes, Nex, Osirion,
+Rahadoum, Thuvia
+Shoanti Hold of Belkzen, Varisia
+Skald Irrisen, Lands of the Linnorm Kings
+Tien Lands of the Linnorm Kings, Realm of the
+Mammoth Lords, Tian Xia
+Varisian Brevoy, the Gravelands, Nidal, Nirmathas,
+Ustalav, Varisia
+Vudrani Jalmeray, Katapesh, Nex, Vudra
+RELIGION
+Selection of a deity is critical for clerics, but most characters pay respect to at least one
+deity to find a focus in life and guide their choices, especially in times of hardship or need.
+Some people instead worship a group of deities arranged in a pantheon, follow a non-deific
+religion like the Green Faith, or adhere to a specific philosophy. Note that far more deities,
+religions, and philosophies exist on any world, Golarion included, than those detailed below.
+Deities
+Anyone can worship a deity, but those who do so devoutly
+should take care to pursue the faith’s edicts (behaviors
+the faith encourages) and avoid its anathemas (actions
+considered blasphemous, and could cause a god to revoke
+their blessings). Each deity below has their name and title,
+followed by a short description and cultural information,
+including the attributes for characters who have the Raised
+by Belief background (page 88). Following that are the
+benefits available to the most ardent devotees of the deities.
+You get these benefits only if you’re a cleric of the deity or
+some other rule specifically gives you a devotee benefit.
+Abadar
+Abadar, Master of the First Vault, seeks to bring
+civilization to the wilds of the world, encourages
+adherence to the law, and promotes commerce
+and trade within civilization. He also encourages cooperation
+among ancestries.
+Areas of Concern cities, law, merchants, and wealth
+Edicts bring civilization to the frontiers, earn wealth through hard
+work and trade, follow the rule of law
+Anathema engage in banditry or piracy, steal, undermine a
+law-abiding court
+Divine Attribute Constitution or Intelligence
+Devotee Benefits
+Cleric Spells 1st: illusory object, 4th: creation, 7th: planar palace
+Divine Font harm or heal
+Divine Sanctification can choose holy or unholy
+Divine Skill Society
+Domains cities, earth, travel, wealth
+Favored Weapon crossbow
+Asmodeus
+Asmodeus, Prince of Darkness, delights in tempting
+mortals to give in to corruption. He promotes
+hierarchies where everyone knows their place, and
+he takes advantage of order for his own selfish benefit.
+Areas of Concern contracts, oppression, pride, and tyranny
+Edicts negotiate contracts to your best advantage, rule tyrannically
+and torture weaker beings, show subservience to your betters
+Anathema break a contract, share power with the weak, insult
+Asmodeus by showing mercy to your enemies
+Divine Attribute any (characters who commit themselves to
+Asmodeus this way have their souls bound to the Dark
+Prince for all eternity)
+
+Devotee Benefits
+Cleric Spells 1st: charm, 4th: suggestion, 6th: mislead
+Divine Font harm
+Divine Sanctification must choose unholy
+Divine Skill Deception
+Domains confidence, fire, trickery, tyranny
+Favored Weapon mace
+Calistria
+Calistria, the Savored Sting, is a mischievous
+and mercurial god of attraction who delights in
+tricking others and seeks vengeance on those
+who slight her. Though Calistria is most widely worshipped by
+elves, members of many other ancestries follow her as well.
+Areas of Concern lust, revenge, and trickery
+Edicts pursue your personal freedom, seek hedonistic thrills,
+take revenge
+Anathema become too consumed by love or a need for
+revenge, let a slight go unanswered
+Divine Attribute Dexterity or Charisma
+Devotee Benefits
+Cleric Spells 1st: charm, 3rd: enthrall, 6th: mislead
+Divine Font harm or heal
+Divine Sanctification can choose holy or unholy
+Divine Skill Deception
+Domains pain, passion, secrecy, trickery
+Favored Weapon whip
+Cayden Cailean
+The Accidental God ascended from mortal life on a
+drunken dare. Cayden, the Drunken Hero, promotes
+freedom and encourages others to find their own path
+in life. He fights for just causes and delights in the best indulgences.
+Areas of Concern ale, bravery, freedom, and wine
+Edicts drink, aid the oppressed, seek glory and adventure
+Anathema waste alcohol, be mean or standoffish when drunk,
+oppress the vulnerable
+Divine Attribute Constitution or Charisma
+Devotee Benefits
+Cleric Spells 1st: fleet step, 2nd: stupefy, 5th: hallucination
+Divine Font heal
+Divine Sanctification can choose holy
+Divine Skill Athletics
+Domains cities, freedom, indulgence, might
+Favored Weapon rapier
+SANCTIFICATION
+
+Some deities sanctify their clerics and similarly devoted
+followers. This gives the follower the holy or unholy trait.
+The holy trait (page 456) indicates a powerful devotion
+to altruism, helping others, and battling against unholy
+forces like fiends and undead. The unholy trait (page 462),
+in turn, shows devotion to victimizing others, inflicting
+harm, and battling celestial powers. Deities that list “must
+choose” mandate gaining the trait and those that list “can
+choose” give the devotee the option to choose the trait or
+not. You can have the holy trait, unholy trait, or neither, but
+can never have both the holy and unholy traits.
+Spells and other effects can also have these traits,
+making them more powerful against creatures with the
+opposite trait. Some spells and abilities have the sanctified
+trait. If you have the holy or unholy trait, when you use a
+sanctified ability you add your holy or unholy trait to it.
+Desna
+Desna set her sights on the heavens, placing stars
+in the sky to guide travelers through the darkness
+and dreamers through nightmares. The Song of
+Spheres delights in freedom and mystery, and encourages her
+followers to do the same.
+Areas of Concern dreams, luck, stars, and travelers
+Edicts aid fellow travelers, explore new places, express
+yourself through art and song, find what life has to offer
+Anathema cause fear or despair, cast nightmare or use similar
+magic to corrupt dreams, engage in bigoted behavior
+Divine Attribute Charisma or Dexterity
+Devotee Benefits
+Cleric Spells 1st: sleep, 4th: translocate, 5th: dreaming potential
+Divine Font heal
+Divine Sanctification can choose holy
+Divine Skill Acrobatics
+Domains dreams, luck, moon, travel
+Favored Weapon starknife
+Erastil
+Long ago, Erastil was a horned god of the hunt, but
+his worship evolved to focus on rural communities.
+Old Deadeye desires nothing more than peaceful
+lives for his followers, calling them to arms only when that
+pastoral existence is threatened.
+Areas of Concern family, farming, hunting, and trade
+Edicts care for your home and family, fulfill your duties, keep
+the peace, protect the community
+Anathema abandon your home in its time of need, choose yourself
+over your community, tarnish your reputation, tell lies
+Divine Attribute Constitution or Wisdom
+Devotee Benefits
+Cleric Spells 1st: sure strike, 3rd: wall of thorns, 5th:
+
+nature’s pathway
+Divine Font heal
+Divine Sanctification can choose holy
+Divine Skill Survival
+Domains earth, family, nature, wealth
+Favored Weapon longbow
+Gorum
+Anyone who seeks glory on the battlefield calls
+out prayers to Our Lord in Iron. Gorum emphasizes
+might, encouraging his followers to seek out war
+and combat as the ultimate way to worship him.
+Areas of Concern battle, strength, and weapons
+Edicts attain victory in fair combat, push your limits, wear
+armor in combat
+Anathema kill prisoners or surrendering foes, prevent conflict
+through negotiation, win a battle through underhanded
+tactics or indirect magic
+Divine Attribute Strength or Constitution
+Devotee Benefits
+Cleric Spells 1st: sure strike, 2nd: enlarge, 4th: weapon storm
+Divine Font harm or heal
+Divine Sanctification can choose holy or unholy
+Divine Skill Athletics
+Domains confidence, destruction, might, zeal
+Favored Weapon greatsword
+Gozreh
+A deity of two aspects, Gozreh is the sea that
+encapsulates the land and the wind that moves
+its surface. The Wind and the Waves are popular
+with druids and those who seek to preserve the wilds.
+Areas of Concern nature, the sea, and weather
+Edicts cherish, protect, and respect nature in all its forms
+Anathema bring civilization to intrude on the wild, create
+undead, despoil areas of natural beauty
+Divine Attribute Constitution or Wisdom
+Devotee Benefits
+Cleric Spells 1st: gust of wind, 3rd: lightning bolt, 5th: control water
+Divine Font heal
+Divine Sanctification none
+Divine Skill Survival
+Domains air, nature, travel, water
+Favored Weapon trident
+Iomedae
+Prior to her ascension and inheritance of many
+of the god of humanity’s worshippers, Iomedae
+was a holy warrior in wars against the undead.
+The Inheritor upholds the values of virtue, fighting against the
+wicked and unjust.
+Areas of Concern honor, justice, rulership, and valor
+Edicts be temperate, fight for justice and honor, hold valor in
+your heart
+Anathema abandon a companion in need, dishonor yourself,
+refuse a challenge from an equal
+Divine Attribute Strength or Constitution
+Devotee Benefits
+Cleric Spells 1st: sure strike, 2nd: enlarge, 4th: fire shield
+Divine Font heal
+Divine Sanctification must choose holy
+Divine Skill Intimidation
+Domains confidence, might, truth, zeal
+Favored Weapon longsword
+Irori
+As a mortal, Irori attained true enlightenment,
+allowing him to break free of the shackles of
+mortality and achieve divinity. As a god, he is the
+Master of Masters and promotes discipline and teaches that
+one who can master themself finds the greatest benefits the
+world can provide.
+Areas of Concern history, knowledge, and self-perfection
+Edicts be humble; help others perfect themselves; hone your
+body, mind, and spirit to a more perfect state; practice discipline
+Anathema engage in overly unhealthy or self-destructive
+behaviors, destroy an important historical text, repeatedly
+fail to maintain self-control
+Divine Attribute Intelligence or Wisdom
+Devotee Benefits
+Cleric Spells 1st: jump, 3rd: haste, 4th: mountain resilience
+Divine Font harm or heal
+Divine Sanctification can choose holy or unholy
+Divine Skill Athletics
+Domains knowledge, might, perfection, truth
+Favored Weapon fist
+Lamashtu
+Lamashtu, the Mother of Monsters, revels in
+corruption of the pure. The physical changes and
+nightmares left by her interventions are treated
+as gifts by her followers and unwelcome terrors by the outside
+world. There are some that find respite or even a family among
+Lamashtu’s followers due to the faith’s greater acceptance
+of differences.
+Areas of Concern aberrance, monsters, and nightmares
+Edicts bring power to outcasts and the downtrodden, indoctrinate
+others in Lamashtu’s teachings, make the beautiful monstrous,
+reveal the corruption and flaws in all things
+Anathema attempt to change that which makes you different,
+provide succor to Lamashtu’s enemies
+Divine Attribute Strength or Constitution
+Devotee Benefits
+Cleric Spells 1st: spider sting, 2nd: animal form, 4th: nightmare
+Divine Font harm or heal
+Divine Sanctification can choose unholy
+Divine Skill Survival
+
+Domains family, might, nightmares, trickery
+Favored Weapon falchion
+Nethys
+Once a mortal master of magic, Nethys sought to
+unlock all the secrets of the planes, ascending to
+godhood as his mind truly understood the entire
+potential of magic. The All-Seeing Eye is a dualistic god, teaching
+both the destructive and protective potential of magic.
+Areas of Concern magic
+Edicts seek out magical power and use it
+Anathema pursue mundane paths over magical ones
+Divine Attribute Intelligence or Wisdom
+Devotee Benefits
+Cleric Spells 1st: force barrage, 2nd: embed message, 3rd:
+levitate, 4th: flicker, 5th: telekinetic haul, 6th: wall of force,
+7th: warp mind, 8th: quandary, 9th: detonate magic
+Divine Font harm or heal
+Divine Sanctification can choose holy or unholy
+Divine Skill Arcana
+Domains destruction, knowledge, magic, protection
+Favored Weapon staff
+Norgorber
+This shadowy figure is worshipped in four aspects:
+Blackfingers, ally of alchemists and poisoners;
+the murderous Father Skinsaw; the thieving Gray
+Master; and the secretive Reaper of Reputation.
+Areas of Concern greed, murder, poison, and secrets
+Edicts keep your true identity secret, sacrifice anyone necessary,
+take every advantage in a fight, work from the shadows
+Anathema allow your true identity to be connected to your
+foul dealings, share a secret freely, show mercy
+Divine Attribute Dexterity or Intelligence
+Devotee Benefits
+Cleric Spells 1st: illusory disguise, 2nd: invisibility, 4th: vision
+of death
+Divine Font harm
+Divine Sanctification can choose unholy
+Divine Skill Stealth
+Domains death, secrecy, trickery, wealth
+Favored Weapon shortsword
+Pharasma
+Ancient and powerful beyond even most other
+gods, Pharasma judges the souls of all who perish
+from her throne in the Boneyard. Through these
+judgments, the Lady of Graves ensures that the natural cycle
+of birth and death—the River of Souls—is not disrupted.
+Areas of Concern birth, death, fate, prophecy, and time
+Edicts strive to understand ancient prophecies, destroy
+undead, lay bodies to rest
+Anathema create undead, desecrate a corpse, rob a tomb
+Divine Attribute Constitution or Wisdom
+Devotee Benefits
+Cleric Spells 1st: mindlink, 3rd: ghostly weapon, 4th: vision of death
+Divine Font heal
+Divine Sanctification none
+Divine Skill Medicine
+Domains death, fate, healing, knowledge
+Favored Weapon dagger
+Rovagug
+Rovagug, the Rough Beast, was long ago
+imprisoned within Golarion’s core at the hands
+of many other deities working in concert, and he
+seeks to one day break free and wreak havoc upon the world.
+He is served by his spawn and those who seek the ultimate
+destruction of all things.
+Areas of Concern destruction, disaster, and wrath
+Edicts destroy all things, free Rovagug from his prison
+Anathema create something new, let material ties restrain
+you, torture a victim or otherwise delay its destruction
+Divine Attribute Strength or Constitution
+Devotee Benefits
+Cleric Spells 1st: breathe fire, 2nd: enlarge, 6th: disintegrate
+Divine Font harm
+Divine Sanctification must choose unholy
+Divine Skill Athletics
+Domains air, destruction, earth, zeal
+Favored Weapon greataxe
+Sarenrae
+Once a powerful angel and empyreal lord,
+Sarenrae led the charge to imprison Rovagug. The
+Dawnflower seeks to redeem evil where possible,
+burn it away with the fire of the sun when it can’t be redeemed,
+and restore those harmed by evil’s machinations.
+Areas of Concern healing, honest redemption, and the sun
+Edicts destroy the Spawn of Rovagug, protect allies, provide
+aid to the sick and wounded, seek and allow redemption
+Anathema create undead, lie, deny a repentant creature an
+opportunity for redemption, fail to strike down evil
+Divine Attribute Constitution or Wisdom
+Devotee Benefits
+Cleric Spells 1st: breathe fire, 3rd: fireball, 4th: wall of fire
+Divine Font heal
+Divine Sanctification can choose holy
+Divine Skill Medicine
+Domains fire, healing, sun, truth
+Favored Weapon scimitar
+Shelyn
+Shelyn, the Eternal Rose, promotes peace and
+love, and she encourages her followers to create
+beauty in a sometimes-dark world. She seeks to
+one day redeem her corrupted brother, Zon-Kuthon.
+Areas of Concern art, beauty, love, and music
+
+Edicts be peaceful, choose and perfect an art, lead by example,
+see the beauty in all things
+Anathema destroy art or allow it to be destroyed, unless saving
+a life or pursuing greater art; refuse to accept surrender
+Divine Attribute Wisdom or Charisma
+Devotee Benefits
+Cleric Spells 1st: dizzying colors, 3rd: enthrall, 4th: creation
+Divine Font heal
+Divine Sanctification can choose holy
+Divine Skill select Crafting or Performance
+Domains creation, family, passion, protection
+Favored Weapon glaive
+Torag
+Although revered by many dwarves as the
+Father of Creation, Torag strives to protect every
+community where he is worshipped and is also
+followed by those who treasure crafting and creation.
+Areas of Concern forge, protection, and strategy
+Edicts be honorable and forthright, keep your word, respect
+the forge, serve your people
+Anathema tell lies or cheat someone, intentionally create
+inferior works, show continued mercy to the enemies of
+your people when such enemies prove they are undeserving
+Divine Attribute Constitution or Wisdom
+Devotee Benefits
+Cleric Spells 1st: mindlink, 3rd: earthbind, 4th: creation
+Divine Font heal
+Divine Sanctification can choose holy
+Divine Skill Crafting
+Domains creation, earth, family, protection
+Favored Weapon warhammer
+Urgathoa
+So infatuated with the pleasures of the living
+world, Urgathoa escaped the clutches of death
+and the afterlife, becoming the first undead. The
+Pallid Princess now revels in the sharing of her hedonistic
+ways and spreading undeath.
+Areas of Concern disease, gluttony, and undeath
+Edicts become undead upon death, create or protect the
+undead, sate your appetites
+Anathema deny your appetites, destroy undead, sacrifice
+your life
+Divine Attribute Constitution or Wisdom
+Devotee Benefits
+Cleric Spells 1st: goblin pox, 2nd: false vitality, 7th: mask
+of terror
+Divine Font harm
+Divine Sanctification must choose unholy
+Divine Skill Intimidation
+Domains indulgence, magic, might, undeath
+Favored Weapon scythe
+Zon-Kuthon
+Once a god of art, beauty, and music, like Shelyn,
+the Midnight Lord returned from a sojourn in the
+dark spaces between the planes horribly changed.
+Zon-Kuthon now teaches the pleasures of pain and darkness.
+Areas of Concern darkness, envy, loss, and pain
+Edicts bring pain to the world, mutilate your body
+Anathema create permanent or long-lasting sources of light,
+provide comfort to those who suffer
+Divine Attributes Constitution or Wisdom
+Devotee Benefits
+Cleric Spells 1st: phantom pain, 3rd: wall of thorns, 5th:
+umbral journey
+Divine Font harm
+Divine Sanctification can choose unholy
+Divine Skill Intimidation
+Domains ambition, darkness, destruction, pain
+Favored Weapon spiked chain
+Faiths and Philosophies
+Of course, faith can express itself in more ways than
+
+venerating a single deity—or a deity at all. A few
+examples of non-deific religions and philosophies are
+presented below. These faiths and philosophies don’t have
+an external godhead that offers benefits to devotees.
+Atheism
+While most concede that the gods exist, some do
+not view them as worthy of worship, and a few
+even deny their presence altogether.
+Edicts pursue your own agenda with faith in your ability to excel
+Anathema offer prayers to a deity
+Green Faith
+The worshippers of the Green Faith count many
+druids among their number. They view nature as
+divine and draw strength from the knowledge of
+their place in the natural order.
+Edicts guide civilization to grow in harmony with nature, preserve
+areas of natural wilderness, protect endangered species
+Anathema cause damage to natural settings, kill animals for
+reasons other than self-defense or sustenance, allow abuse
+of natural resources
+DOMAINS
+
+Clerics and some other devotees can gain domain spells from their deities. The following domains are used by the primary
+deities of Golarion. See page 113 to learn how clerics gain domain spells, and find the spells on pages 372–381.
+Domain Description
+Air You can control winds and the weather.
+Ambition You strive to keep up with and outpace
+the competition.
+Cities You have powers over urban
+environments and denizens.
+Confidence You overcome your fear and project pride.
+Creation You have divine abilities related to
+crafting and art.
+Darkness You operate in the darkness and take
+away the light.
+Death You have the power to end lives and
+destroy undead.
+Destruction You are a conduit for divine devastation.
+Dreams You have the power to enter and
+manipulate dreams.
+Earth You control soil and stone.
+Family You aid and protect your family and
+community more effectively.
+Fate You see and understand hidden inevitabilities.
+Fire You control flame.
+Freedom You liberate yourself and others from
+shackles and constraints.
+Healing Your healing magic is particularly potent.
+Indulgence You feast mightily and can shake off the
+effects of overindulging.
+Knowledge You receive divine insights.
+
+Luck You’re unnaturally lucky and keep out of
+harm’s way.
+Magic You perform the unexpected and inexplicable.
+Might Your physical power is bolstered by
+divine strength.
+Moon You command powers associated with
+the moon.
+Nature You hold power over animals and plants.
+Nightmares You fill minds with horror and dread.
+Pain You punish those who displease you with
+the sharp sting of pain.
+Passion You evoke passion, whether as love or lust.
+Perfection You strive to perfect your mind, body,
+and spirit.
+Protection You ward yourself and others.
+Secrecy You protect secrets and keep them hidden.
+Sun You harness the power of the sun and
+other light sources, and punish undead.
+Travel You have power over movement and journeys.
+Trickery You deceive others and cause mischief.
+Truth You pierce lies and discover the truth.
+Tyranny You wield power to rule and control others.
+Undeath Your magic carries close ties to the undead.
+Water You control water and bodies of water.
+Wealth You hold power over wealth, trade, and
+treasure.
+Zeal Your inner fire increases your combat prowess.
