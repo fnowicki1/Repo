@@ -36,7 +36,7 @@ class CustomDocChatbot:
         # Split documents and store in vector db
         text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=30000,
-            chunk_overlap=5000
+            chunk_overlap=27000
         )
 
         splits = []
@@ -70,7 +70,7 @@ class CustomDocChatbot:
             4. **Example Creation**: If the user requests examples (e.g., a character sheet), create them using the character sheet layout described in the documents. Ensure every aspect of the example is consistent with the rules and guidelines in *Pathfinder Player Core*. Indicate which document sections were used to create the example.
             5. **Formatting**:
                 - Use clear headings and bullet points where appropriate.
-                - Include citations in brackets (e.g., *Pathfinder Player Core, Chapter 3, Page 45*).
+                - Include citations in brackets (e.g., *Pathfinder Player Core, Chapter 3: Classes*).
 
             ### Task:
             Considering the above instructions, answer the following question. Depend strictly on the provided source documents and adhere to the specified guidelines for clarity and accuracy.
@@ -95,6 +95,27 @@ class CustomDocChatbot:
         )
 
         return qa_chain
+    def validate_response(self, user_query, response):
+        """
+        Validate the response based on predefined rules.
+        """
+        errors = []
+
+        # Rule 1: Response must contain a citation
+        if not any(keyword in response.lower() for keyword in ["chapter", "page", "section", "source"]):
+            errors.append("Response does not contain a citation to the source document.")
+
+        # Rule 2: Response should not include unsupported claims
+        if "according to my understanding" in response.lower():
+            errors.append("Response contains unsupported speculation.")
+
+        # Rule 3: Example responses must reference relevant sections
+        if "example" in user_query.lower() and not any(word in response.lower() for word in ["layout", "rules", "pathfinder"]):
+            errors.append("Example provided does not reference relevant sections or rules.")
+
+        if errors:
+            return False, errors
+        return True, []
 
     @utils.enable_chat_history
     def main(self):
@@ -113,10 +134,19 @@ class CustomDocChatbot:
                     {"callbacks": [st_cb]}
                 )
                 response = result["answer"]
-                st.session_state.messages.append({"role": "assistant", "content": response})
-                utils.print_qa(CustomDocChatbot, user_query, response)
-
                 
+                # Validate the response
+                is_valid, errors = self.validate_response(user_query, response)
+
+                if is_valid:
+                    st.session_state.messages.append({"role": "assistant", "content": response})
+                else:
+                    st.session_state.messages.append({
+                        "role": "assistant",
+                        "content": f"The response generated has issues: {', '.join(errors)}"
+                    })
+
+                utils.print_qa(CustomDocChatbot, user_query, response)
 
 if __name__ == "__main__":
     obj = CustomDocChatbot()
